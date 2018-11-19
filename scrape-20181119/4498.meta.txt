@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 498
+Set: 
+Joins:  + 1468 
+Writer(s): 41
+Stylus: 149
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.2411 + 8.2421 + 8.2329 + 8.2328

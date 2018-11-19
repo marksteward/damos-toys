@@ -1,0 +1,10 @@
+.1           ke-to                         OVIS   100   X
+.2        a-ta-tu-ro                  CAP:m   38
+.3        a-mi-nu-wa-ta           OVIS:f   50   X   [
+.4        o-ko                              OVIS:f   100   X   [
+.5        i-ma-di-jo                   OVIS:f[ qs
+.6        ko-tu-ro2   [       ]    CAP:f[ qs
+.7        wa-ra-pi-si-ṛọ[ ]      C̣ẠP̣:x[ qs
+.8        e-qa[
+.9        deest
+.10      vestigia[

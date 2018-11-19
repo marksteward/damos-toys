@@ -1,0 +1,11 @@
+Site: Knossos
+Tablet number: 7489
+Set: 1
+Joins:  + 8142
+Writer(s): "124"o
+Stylus: 
+Chronology 1: LM IIIA1?
+Chronology 2: LM IIIA1?
+Chronology 3: 
+Museum: HM
+Find spot: 

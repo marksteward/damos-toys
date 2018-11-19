@@ -1,0 +1,15 @@
+.0              sup. mut.
+.1        mi-ru-ro  /  si-pe-we                    BOS        ne   *170   12
+.2        o-du-ru-wi-jo  /  ko-re-te            BOS        ne   *170   12
+.3        wa-to  /  ḳọ-re-te     BOS   ne  *170   12  //  wa-to  /  da-nu-wo   'BOS'   *170   12
+.4        si-ra-ro  /  ko-re-te                       BOS   1   ne   *170   12
+.5        *56-ko-we  /  e-ra-ne                   BOS   1   ne   *170   12
+.6        o-du-ru-we  /  u-wo-qe-we        BOS   1   ne   *170   12
+.7        ri-jo-no  /  ko-re-te                       BOS   1   ne   *170   12
+.8        ru-ki-ti-jo                                         BOS   1   ne   *170   12
+.9        a-pa-ta-wa  /  ko-re-te                 BOS   1   ne   *170   12
+.10      ku-ta-i-to  /  ko-re-te                   BOS   1   ne   *170   12
+.11      re-ri-jo  /  e-re-ta                          BOS   1   ne   *170   12
+.12           ] wa-to  /  we-re-ẉẹ                BOS   1   ne   *170   12
+.13            inf. mut.
+v.

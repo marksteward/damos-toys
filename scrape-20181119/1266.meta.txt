@@ -1,0 +1,11 @@
+Site: Knossos
+Tablet number: 1380
+Set: -
+Joins:  + 7151 + 8608
+Writer(s): 117
+Stylus: 
+Chronology 1: LM IIIA2-late?
+Chronology 2: LM IIIA2-late?
+Chronology 3: 
+Museum: HM
+Find spot: 

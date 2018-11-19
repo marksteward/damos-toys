@@ -1,0 +1,17 @@
+.1            o-re-e-wo  ,  wo-wo  ,  pa-ro  ,  ke-we-no                       OVIS:m   50
+.2        o-re-e-wo , wo-wo , de-ko-to                                                OVIS:m   100
+.3        o-re-e-wo  ,  wo-wo  ,  ke-ro-u-te-u                                     OVIS:m   90
+.4        o-re-e-wo  ,̣  wo-wo  ,  e-te-re-ṛọ                                          OVIS:m   90
+.5a                                                                                      -jo
+.5b      o[-re-e-]ẉọ  ,  wo-wo  ,  mi-ka-ri-jo  ,  a-ke-o-                 OVIS:m   92
+.6        re-qa-se-wo  ,  wo-wo  ,  wa-ra-wo-ṇọ⌞ ⌟ạ-ḳẹ-ọ-jo      OVIS:m   70
+.7        ti-mi-to  ,  a-ke-e  ,  te-[                                                           ]ỌṾỊṢ:f   80
+.8        ti-mi-to  ,  a-ke-e  ,  a-[                   ]-u  ,  we-da-ne-wo     OVIS:f   60
+.9        re-qa-se-wo  ,  wo-wo  ,  ka-wi-ta                                        OVIS:f   70
+.10      re-qa-se-wo  ,  wo-wo  ,  wi-ja-te-we                                 OVIS:f   80
+.11      ti-mi-to  ,  a-ke-e  ,  o-pe-se-to  ,  a-ke-o-jo                       OVIS:f   60
+.12      ti-mi-to  ,  a-ke-e  ,  e-te-wa-j̣ọ  ,                                          CAP:f   3̣0
+.13      ti-mi-to  ,  a-ke-e  ,  a-no-ze-we                                           CAP:f   36
+.14      ti-mi-to  ,  a-ke-e  ,  qe-ta-ko                                                 SUS:m   30
+.15      ti-mi-to  ,  a-ke-e  ,  *82-de[        ]                                         SUS:f   12
+                                             reliqua pars sine regulis

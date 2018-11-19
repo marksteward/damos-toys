@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 410
+Set: 
+Joins:  + frr.: 7 + frr. + 413 + 1065 + 1067 
+Writer(s): 2
+Stylus: 310
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.22 + 8.2286 + 8.2256 + 8.2225 + 8.2285 + 8.2284 + 8.2273

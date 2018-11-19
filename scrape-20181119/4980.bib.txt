@@ -1,0 +1,4 @@
+Kasus: 22
+Docs2: 244
+Interpretation: 256T
+Companion-1: 204/205

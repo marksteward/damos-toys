@@ -1,0 +1,2 @@
+Kasus: 74
+Companion-1: 210

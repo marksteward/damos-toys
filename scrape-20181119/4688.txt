@@ -1,0 +1,16 @@
+.1        po-wi-te-ja  ,  ka-ke-we  ,  ta-ra-si-ja  ,  e-ko-te
+.2        wo-di-jo  ,  AES   M   6  to-ro-wi  AES   M   8  e-u-po-ro-wo  AES   M   8
+.3        o-qa   AES   M   4  te-u-to   AES   M   5  pu2-ti-ja   AES   M   6
+.4        po-to-re-ma-ta  AES   M   8  wa-pa-no   AES   M   8
+.5        po-so-ro    AES   M   8  mo-da   AES   M   8   pe-po-ro   AES   M   4
+.6        o-na-se-u  AES   M   12  vest.[                 ]AES   M   7[  ]  vac.
+.7        ko-to-wa-p̣ẹ[  ]AES   M   8  ṭọ[-so-]de  ,  e-p̣ị-da-to   AES   M   7
+.8        qa-si-re-u  ,  pa-qo-si[-jo         ]1                   [
+.9        to-so-p̣ạ  ,  ka-ko [     ] AES   L   3   M   1⌞4[
+.10                vac.        [         ] vac. [              ] vac. [                ] vac.
+.11      to-so-de  ,  a[-ta-ra-]ṣị-jo[   ka-ke-we   po-]ti-na-jo   1
+.12      po-so-ri-j̣ọ[   1   ] vest.[                    ]ne-wo   1   i-pe-ra-ta   1
+.13      sa-nu-[    ]  1  [  ] vac. [                              ]1̣   vac.
+.14                vac.
+.15                vac.
+.16                vac.

@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 312
+Set: 
+Joins:  + fr.
+Writer(s): 24
+Stylus: 312
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.1381 + 8.1391 + 8.2322 + 7.4357

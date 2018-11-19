@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 79
+Set: 
+Joins:  + 1192
+Writer(s): 45
+Stylus: 79
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.1303B + 8.1315B + x0.

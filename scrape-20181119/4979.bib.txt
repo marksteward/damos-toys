@@ -1,0 +1,8 @@
+Kasus: 136
+Doria(1965): 70
+Hajnal(1998): 22
+Local Cases: 66
+Docs2: 240
+Interpretation: 252T
+Longo(1989): 120
+Companion-1: 202/203

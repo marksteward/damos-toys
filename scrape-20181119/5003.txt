@@ -1,0 +1,5 @@
+.1            pu-ro  ,  qe-te-a2  ,  pa-ro  ,  du-ni-jo
+.2        HORD   18   T   5     po-qa   OLIV   4   T   3   V   5
+.3        VIN   13   OVIS:m   15   WE   8   OVIS:f   1   CAP:m   13   SUS   12
+.4        SUS+SI   1   BOS:f   1   BOS:m   2
+.5        me-za-wo-ni     HORD   4   T   8   V   1                  ka-pa   OLIV   7

@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 436
+Set: 
+Joins:  + 1062 + frr.: 8 + frr.: 3
+Writer(s): 1
+Stylus: 131
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.2253

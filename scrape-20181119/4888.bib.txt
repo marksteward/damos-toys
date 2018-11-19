@@ -1,0 +1,8 @@
+Kasus: 178
+Doria(1965): 57
+Introduction: 315/317
+Local Cases: 75
+Docs2: 184
+Interpretation: 211T/160/274
+Melena(2001): 60
+Ruipérez-Melena(1990): 245

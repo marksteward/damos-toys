@@ -1,0 +1,4 @@
+.A        ]   HORD     T   1     NI     V   3     FAR     V   1
+.B        ]   ,   OLE       Z   2     VIN     V   1
+v.↓
+            ]Z   1

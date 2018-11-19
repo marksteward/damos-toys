@@ -1,0 +1,13 @@
+.1          ru-ko-a2-ḳẹ-re-u-te   ,    ka-ke-we     ,   ta-ra-si-ja  ,     e-ko-te
+.2        re-u-ko-ro-o-pu2-ru   AES   M   5   a3-ta-ro      AES   M   5
+.3        wi-du-wo-i-jo       AES   M   5            ke-ti-ro      AES   M   5
+.4        a-me-no                  AES   M   5            pa-pu-so   AES   M   5
+.5        a-ka-ṣạ-no              AES   M   4
+.6                                                                  vac.
+.7        to-so-de   [     ]     ka-ko     AES     ⟦M⟧   L   1   M   4
+.8                                                                  vac.
+.9        to-so-]de  ,  a-ta-ra-si-jo  ,  ka-ke-we
+.10               ]me-no   1   na-wa-to   1   [•]-te-re-ro   1
+.11      ru-ki-jo   1   a-na-te-u 1
+.12                                                                vac.
+.13                                                                vac.

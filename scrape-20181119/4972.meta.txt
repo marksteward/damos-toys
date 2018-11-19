@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 641
+Set: 
+Joins: 
+Writer(s): 2
+Stylus: 641
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: x.83

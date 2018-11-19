@@ -1,0 +1,20 @@
+.1           ma-ro-pi  ,  qe-re-wa-o      pa-ra-jo                        OVIS:m   136
+.2           ma-ro-pi  ,  to-ro-wi-ko  ,  pa-ra-jo                         OVIS:m   133[
+.3        ma-ro-pi   ,   ke-ro-wo-jo                                              OVIS:m   85
+.4        ma-ro-pi⌞ ⌟ra-pa-sa-ko-jo                                         OVIS:m   69
+.5        ma-ro-pi  ,  pu-wi-no  ,  a-pi-me-de-o  ,  a-ko-ra         OVIS:m   190
+.6        ma-ro-pi  ,  i-wa-so  ,  we-da-ne-wo  ,  a-ko-ra          OVIS:m   70
+.7        ma-ro-pi  ,  ti-ḳẹ-wo  ,  pa-ra-jo                                      OVIS:m   70
+.8        ma-ro-pi  ,  o-ka-ri-jo  ,  pa-ra-jo                                    OVIS:m   95
+.9        ma-ro-pi  ,  e-ti-ra-wo  ,  pa-ra-jo                                   OVIS:m  70
+.10      ma-ro-pi  ,  a-ta-ma-ne-u  ,  pa-ra-jo                            OVIS:m   60
+.11      ma-ro-pi  ,  qi-ri-ta-ko  ,  a-ke-o-jo  ,  a-ko-ra            OVIS:m   90[
+.12      ma-ro-pi  ,  a-ri-wo  ,  a-ke-o-jo  ,  a-ko-ra                     [                 ]14
+.13      ma-ro-pi  ,  ṛọ-ḳị-j̣ọ  ,  we-ḍạ-ne-wo  ,  a-ko-ra              [             ]80
+.14      ma-ro-pi  ,  o-pe-re-ṭạ  ,  we-da-ne-wo                            OVIS:f   86
+.15      ma-ro-pi  ,  po-ro-qa-ta-jo  ,  we-da-ne-wo                    OVIS:f   63
+.16      ma-ro-pi  ,  to-ru-ko-ro  ,  we-da-ne-wo                         OVIS:f   88
+.17      ma-ro-pi  ,  ma-ma-ro  ,  we-da-ne-wo                            OVIS:m   90
+.18      ma-]ṛọ-pi  ,  ma-du-ro⌞ ⌟we-da-ne-wo                         OVIS:m   100
+.19      ma-ro-]pi  ,  se-no  ,  we-da-ṇẹ-wo                                   OVIS:f   40
+.20      ma-ro-]p̣ị  ,  ta-ta-ke-u  ,  [we-]ḍạ-ne-wo                       OVIS:f   30

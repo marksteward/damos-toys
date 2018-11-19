@@ -1,0 +1,8 @@
+Kasus: 148
+Doria(1965): 125
+Docs2: 215
+Interpretation: 183T
+Melena(2001): 56
+Bartoněk(2002): BA28
+Ruipérez-Melena(1990): 241
+Companion-1: 182183/243/264-265T

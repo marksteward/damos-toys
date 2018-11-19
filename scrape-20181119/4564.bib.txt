@@ -1,0 +1,4 @@
+Introduction: 265
+Docs2: 119
+Interpretation: 80T
+Bartoněk(2002): BA14

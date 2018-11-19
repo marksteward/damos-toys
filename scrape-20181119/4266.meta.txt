@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 289
+Set: 
+Joins:  + 681 + 687 
+Writer(s): 23
+Stylus: 290
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.1258 + 8.2286 + 7.5440 + 7.5463

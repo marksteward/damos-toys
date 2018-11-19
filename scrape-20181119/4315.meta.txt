@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 344
+Set: 
+Joins:  + 1051 + frr.
+Writer(s): 22
+Stylus: 142
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.22 + 8.2371 + 8.2286

@@ -1,0 +1,4 @@
+Kasus: 221/239
+Docs2: 258
+Interpretation: 168
+Melena(2001): 53-54

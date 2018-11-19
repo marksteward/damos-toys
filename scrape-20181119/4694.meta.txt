@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 725
+Set: 
+Joins:  + frr.: 29 + frr.: 6
+Writer(s): 2
+Stylus: 310
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 7.5308 + 7.5319 + 7.5411 + 7.4492 + 7.5445

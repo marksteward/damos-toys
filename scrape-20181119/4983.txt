@@ -1,0 +1,5 @@
+.1            ta-ra-nu  ,  a-ja-me-no  ,  e-re-pa-te-jo  ,  au-de-pi  ,  to-qi-de-qe  ,  ka-ru-we-qe        *220   1
+.2        ta-ra-nu-we  ,  a-ja-me-no  ,  e-re-pa-te-jo  ,  au-de-pi  ,  so-we-no-qe  ,  to-qi-de-qe     *220   3
+.3        ta-ra-nu  ,  a-ja-me-no  ,  e-re-pa-te-jo  ,  au-de-pi  ,  so-we-no-qe  ,                *220   1
+.4        ta-ra-nu  ,  a-ja-me-no  ,  e-re-pa-te-jo  ,  au-de-pi  ,  so-we-no-qe  ,             *220   1
+.5        ta-ra-nu   ,  a-ja-me-no  ,  e-re-pa-te-jo  ,  au-de-pi                                          *220   1

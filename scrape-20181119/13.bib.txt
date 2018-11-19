@@ -1,0 +1,5 @@
+Kasus: 247
+Doria(1965): 117
+Local Cases: 47
+Docs2: 202
+Interpretation: 117T

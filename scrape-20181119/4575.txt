@@ -1,0 +1,10 @@
+.1            re-ka  ,  te-o-jo  ,  do-e-ra  ,  o-na-to  ,  e-ke  ,  ke-ke-me-na  ,  ko-to-na  ,  pa-ro  ,  da-ṃọ  ,  ṭọ-so  pe-mo                  GRA   T   6
+.2          e-ri-ko-wo  ,  te-o-jo  ,  do-e-ro  ,  o-na-ṭọ  ,  e-ke  ,  ke-ke-me-na  ,  ko-to-na  ,  pa-ro  ,  da-mo  ,  to-so  pe-mo            GRA   V   3
+.3        e-ko-to  ,  te-o-jo  ,  do-e-ro  ,  o-na-to⌞ ⌟e-ke  ,  ke-ke-me-na  ,  ko-to-na  ,  ko-na  ,  pa-ro  ,  da-mo  ,  to-so  pe-mo     GRA   T   1   V   3
+.4        ko-ri-si-ja⌞ ⌟te-o-jo  ,  do-e-ra  ,  o-na-to  ,  e-ke  ,  ke-ke-me-na  ,  ko-to-na  ,  pa-ro  ,  da-mo  ,  to-so  pe-mo                GRA   1
+.5        e-pa-sa-na-ti  ,  te-o-jo  ,  do-e-ra  ,  o-na-to  ,  e-ke  ,  ke-ke-me-na  ,  ko-to-na  ,  pa-ro  ,  da-mo  to-so  pe-mo               GRA   T   3
+.6        mu-ti-ri  ,  te-o-jo  ,  do-e-ra  ,  o-na-to  ,  e-ke  ,  ke-ke-me-na  ,  ko-to-na  ,  pa-ro  ,  da-mo  to-so  pe-mo                         GRA   T   1
+.7        ka-wa-do-ro  ,  te-o-jo  ,  do-e-ro  ,  o-na-to  ,  e-ke  ,  ke-ke-me-na  ,  ko-to-na  ,  pa-ro  ,  da-mo  ,  to-so  ,  pe-mo          GRA      V   3
+.8          ḳọ-ṣạ-ma-to  ,  te-o-jo  ,  do-e-ro  ,  o-na-to  ,  e-ke  ,  ke-ke-me-na  ,  ko-to-na  ,  pa-ro  ,  da-mo  ,  to  pe-mo                 GRA   T   1
+.9            i-do-me-ne-ja  ,  te-o-jo  ,  do-e-ra  ,  o-na-to  ,  e-ke  ,  ke-ke-me-na  ,  ko-to-na  ,  pa-ro  ,  da-mo  to-so  pe-mo            GRA   T   1   V   3
+.10           ra-su-ro  ,  te-o-jo , do-e-ro  ,  o-na-to⌞ ⌟e-ḳẹ⌞ ⌟ke-ke-me-na  ,  ko-to-na[   pa-ro ]da-mo  ,  to-so  pe-mo                   GRA   T   2

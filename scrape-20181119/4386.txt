@@ -1,0 +1,10 @@
+.1        pa-ro  ,  we-u-da-ne-we
+.2        ṛẹ-ụ-ko  ,  a-ko-ro-we-e   BOS+SI   2
+.3        re[-u-]ḳọ  ,  ma-ra-p̣ị  ,  pe-ko  ,  a-ko-ro-we  BOS+SI   1
+.4        OVIS:m? ]3  CAP:m  3̣  WE  3  CAP:m  3
+.5        ]vestigia[   ]2   [   ]ḄỌṢ:x   3   ⟦                 ⟧
+.6                           ]  vest.  [     ]  vest.  [
+.7        re-u-ko[  ]ṃạ-ra[-pi     ]pe-ko  ,  a-ko-ro-we[
+.8        OVIS:m  1  CAP:m  1 WE[   ] ṢỤṢ:x[
+.9                                    ]  vacat  [
+                                         inf. mut.

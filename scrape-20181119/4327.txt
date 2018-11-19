@@ -1,0 +1,6 @@
+.1           to-ko-do-mo  ,  de-me-o-te
+.2        pu-ro   VIR   2   me-te-to-de   VIR   3
+.3        sa-ma-ra-de   VIR   3   re-u-ko-to-ro   VIR   4
+.4                                vac.
+.5        a-ta-ro  ,  tu-ru-pte-ri-ja  ,  o-no
+.6        LANA  2  CAP:f   4   *146   3   VIN   10   NI   4

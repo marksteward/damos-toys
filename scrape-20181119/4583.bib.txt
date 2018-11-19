@@ -1,0 +1,6 @@
+Kasus: 244n.322
+Docs2: 154
+Interpretation: 104T/89/160
+Melena(2001): 41
+Ruipérez-Melena(1990): 234
+Companion-1: 165

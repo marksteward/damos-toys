@@ -1,0 +1,26 @@
+.1            a-pe-ke-i-jo  ,  ka-ke-we  ,  ta-ra-si[-ja  e-ko-te
+.2        wi-ja-ni-jo   AES   M   5  ka-ra-*82[  ]   AES   M   ⌞5[ ]  ko-tu-ro2   AES   M   5
+.3        ma-na-si-we-ko     AES   M   5  da-ṃạ-so     AES   M     5 qe-ta-ko     AES   M   4
+.4        a-ko-to-wo              AES   M   7         ụ[ ]ị-jo         AES   M   6⟦                                     ⟧
+.5        ma-wa-si-jo            AES   M   5  qe[-to-]ro-no     AES   M   7
+.6        qa-si-re-u  ,  a-pi-qo-ta         1 [          ]ị-*65-qe            1
+.7          to-so-de  ,  ka-ko  ,           AES   [L   1 ]   M   24
+.8                                                              vac.
+.9          to-so-de  ,  a-ta-ra-si-jo  ,  ka-ke[-we                       ]              vac.
+.10        a-ta-tu-ro  1  i-ta-ra-jo  1  sa[                                1  ]              vac.
+.11      wi-ja-te-wo  1  no-e-u  1  tu-ri-ja-j̣ọ  1  qe-ṭạ-ḳọ-jo  ,  do-e-ro   1
+.12      a-ka-ma-wo  1  e-pe-ke-u  1  *82-de  1  pu-te-u  1
+.13      ko-ne-wa-ta  1  qe-to-ro-no  1  mo-re-u  1  a-e-ri-qo  1
+.14                                                           vac.
+.15                                                           vac.
+.16      a-pe-ke-e   ,   ka-ke-we   ,   po-ti-ni-ja-we-jo   ,   ta-ra-si-ja   ,   e-ko-te
+.17      ko-za-ro   AES   M   6  a-ke-wa-ta   AES   M   3  sa-ke-re-u   AES   M   6
+.18      we-we-si-jo   AES  M   3  ko-ta-wo   AES   M   3  da-u-ta-ro   AES   M   6
+.19                                                           vac.
+.20      to-so-de  ,  ka-ko                   AES   M   27
+.21                                                           vac.
+.22      to[-so-de  ]a[-ta-]ra-si-jo  ,  ka-ke-we  ,  ka-ri-se-u   1   du-ko-so[  1
+.23      ko[                               ]1̣  e-u-wa-ko-ro  1  ke-we-no   1   a-ta-o   1
+.24                                             ]wa-ti-ro   1   me-ri-wa-[•]   1
+.25                                     ]   i-j̣ẹ-re[                ]ṾỊṚ   10   to-sa-no-jo   VIR   5
+.26                                                                VIR  ]1  a-mu-ta-wo-no   VIR   31

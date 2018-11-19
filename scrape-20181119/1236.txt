@@ -1,0 +1,2 @@
+.A        [   ]                                 OVIS:m   75     OVIS:f   5
+.B        [   ]ra-ro  , / su-ri-mo

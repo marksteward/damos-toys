@@ -1,0 +1,19 @@
+.1             qe-re-qo-ta-o  ,  ki-ti-me-na  ,  to-so-de  ,  pe-mo     GRA   2   T   3
+.2          o-da-a2  ,̣  o-na-te-re  ,  e-ko-si  ,  qe-re-qo-ta-o  ,  ko-to-na
+.3        ra-su-ro  ,  te-o-jo  ,  do-e-ro  ,  o-na-to  ,  e-ke  ,  to-so-de  ,  pe-mo     GRA   T   1
+.4        we-te-re-u  ,  i-e-re-u  ,  o-na-ṭọ  ,  e-ke  ,  to-so-de  ,  pe-mo                  GRA   T   1
+.5        tu-ri-ja-ti  ,  te-o-jo  ,  do-e-ra  ,  e-ke  ,   p̣ạ-ṛọ  ,  pe-re-qo-ta  ,  pe-qo-ta  ,  to-so  ,  pe-mo     GRA   T   9
+.6        ta-ra2-to  ,  te-o-jo  ,  do-e-ro  ,  o-ṇạ-to  ,  e-ke  ,  to-so-de  ,  pe-mo     GRA   V   3
+.7                                                                                            vac.
+.8        a-da-ma-o-jo  ,  ko-to-na  ,  ki-ṭị-me-ṇạ⌞ ⌟to-so-de  ,  pe-mo                 GRA   1   T   8
+.9        o-da-a2  ,  o-to-te-re  ,  e-ko-si  ,  a-da-ma-o-jo  ,  ko-to-na
+.10      ta-ra2-to  ,  te-o-na  ,  do-e-ro⌞ ⌟o-na-to  ,  e-ke  ,  to-so-de  ,  p̣ẹ-ṃọ   GRA   T   2   V   4
+.11                                                                                         vac.
+.12      a-ị-qe-wo  ,  ko-to-na  ,  ki-ti-me-na  ,  to-so-de  ,  pe-mo       GRA   1̣   T   2
+.13      o-da-a2  ,  ta-ra2-ṭọ  ,  te-o-jo  ,  do-e-ro  ,  o-na-to⌞ ⌟e-ke  ,  to-so-de  ,  pe-mo   GRA   T   1   V   3
+.14                                                                                         vac.
+.15      ra-ku-ro-jo  ,  ko-to-na  ,  ki-ti-ṃẹ[-na   ]to-so-de  ,  pe-mo     GRA   1   T   1   V   3
+.16      o-da-a2  ,  i-ra-ta  ,  te-o-jo  ,  do-e[-ro  o-]na-to  ,  e-ke  ,  to-so-de  ,  pe-mo       GRA   V   3
+.17                                                                                         vac.
+.18      a-ka-ta[-jo-]jo  ,  ko-to-na  ,  ki-ti-me-na  ,  to-so-de  ,  pe-mo     GRA   3   T   2
+.19        o-da-a2⌞ ⌟ka-ra-*5̣6̣[-so  te-]o-jo[  do-]ẹ-ro  ,  o-na-to  ,  e-ke  ,  to-so-de pe-mo     GRA   T   2

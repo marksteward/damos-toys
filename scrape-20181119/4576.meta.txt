@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 301
+Set: 
+Joins: 
+Writer(s): 1
+Stylus: 74
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.1288 + 8.1380 + 8.1289 + 8.3460

@@ -1,0 +1,13 @@
+.1              ạ-ka-si-jo-ne  ,  ka-ke-we  ,  ta-ra-si-ja  ,  e-ko-te
+.2        pi-ra-me-no     AES   M   3   ma-u-ti-jo     AES   M   3   e-do-mo-ne-u   AES   M   3
+.3        ka-ra-wi-ko   AES   M   1   N   2   pi-we-ri-ja-ta     AES   M   1   N   2
+.4        sa-mu-ta-jo     AES   M   1   N   2   wa-u-do-no       AES   M   1   N   2   ⟦        ⟧
+.5        ka-ra-pa-so     AES   M   1   N   2   pi-ta-ke-u           AES   M   1   N   2
+.6        mo-re-u            AES   M   1   N   2   ti-ta-[•-]wo        AES   M   3
+.7        to-so-de  ,  e-pi-da-to  ,  ka-ko  ,  pa-ṣị                      AES   M   6
+.8        ⟦to-so-de  ,̣  ka-ko       AES   M   27   ⟧
+.9        to-so-de          ka-ko       AES   M   27
+.10                                                                      vac.
+.11      to-so-de  ,  a-ta-ra-si-jo  ,  ka-ke-we  ,
+.12      te-te-re-u  1       pa-pa-jo   1   pi-ro-we-ko   1   a2-nu-me-no   1
+.13      ko-so-u-to   1

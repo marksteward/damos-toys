@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 1420
+Set: 
+Joins: 
+Writer(s): Civ
+Stylus: -
+Chronology 1: LH IIIA-2late?
+Chronology 2: LH IIIA-2late?
+Chronology 3: 
+Museum: NMA
+Find spot: 

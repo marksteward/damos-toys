@@ -1,0 +1,8 @@
+.1                                ]  ,  te-u-ta-ra-ko-ro  ,  ki-ti-me[-na ko-]to-na                                                                   GRA   1   T   5
+.2               p̣ẹ-ḳị-ta  ,  ka-na-pe-u  ,  wa-na-ka-te-ro  ,  e-ke-qe  ,  ọ-na-to  ,  ru-*83-e  ,                               GRA        T   1
+.3           mi-ra  ,  te-o-jo  ,  do-e-ra  ,  e-ke-qe  ,  o-na-to  ,    ⟦pa-ṛọ  ,     ⟧  p̣ạ-ro  ru-*83-e                           GRA        T   1
+.4           te-se-u  ,  te-o-jo  ,  do-e-ro  ,  e-ke-qe  ,  o-na-ṭọ⌞ ⌟p̣ạ-ro  ,  ru-*83-e                                             GRA        T   4
+.5        ma-re-ku-na  ,  te-o-jo  ,  do-e-ra  ,  e-ke-qe  ,  o-na-ṭọ  ,  p̣ạ-ro⌞ ⌟ru-*83-e                                     GRA         T   1
+.6        e-ko-to  ,  te-o-jo  ,  do-e-ro  ,  e-ke-qe  ,  o-na-ṭọ  ,  pa-ro  ,  ru-*83-e                                                 GRA             V   3
+.7        ma-*79  ,  te-o  ,  do-e-ra  ,  e-ke-qe  ,  o-na-to  ,  pa-ro  ru-*83-e                                                         GRA             V   3
+.8        e-*65-to  ,  te-o-jo  ,  do-e-ro  e-ke-qe  ,  o-na-to  ,  pa-ro  ,  ru-*83-e                                                   GRA             V   1

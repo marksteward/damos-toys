@@ -1,0 +1,3 @@
+Kasus: 261
+Local Cases: 46
+Companion-1: 30

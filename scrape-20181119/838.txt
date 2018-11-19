@@ -1,0 +1,2 @@
+.1        si-ra-ro  /  a-ko-ra-jo     OVIS:m   202     OVIS:f   750
+.2              CAP:m   125    CAP:f   240    SUS:m   21    SUS:f   60    BOS:m   2     BOS:f   10

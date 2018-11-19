@@ -1,0 +1,2 @@
+.A        ]   OVIS:m   110       OVIS:f   3
+.B        ]   ,           o   OVIS:m   37

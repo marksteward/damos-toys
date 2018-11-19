@@ -1,0 +1,2 @@
+.1        ]TELA+KU  10     TELA;3+PU   100[
+.2        ]       vac.                                             [

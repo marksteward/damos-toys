@@ -1,0 +1,13 @@
+.1            ka-ke-we ,   ta-ra-si-j̣ạ   ,    ẹ-ko-si
+.2        e-ni-pa-te-we  ,  we-we-si-jo   1     AES   M   5
+.3        ma-ka-wo   1     AES   Ṃ   5̣   pi-ro-ne-ta   1      AES   M   5
+.4        pa-qo-ta   1        AES   Ṃ   5̣   au-ta-mo   1          AES   M   5
+.5        po-ro-u-jo   1    AES   M   5    o-na-se-u   1         AES   M   5
+.6        po-]ṛọ-ko   1      AES   M   5   re-u-ka-ta   1        AES   M   5
+.7        wa-ka-ta   1       AES   M   5   o-tu-wo-we   1     AES   M   5
+.8        wo-wi-ja-ta  1   AES   M   5   pe-re-ta   1            AES   M   5
+.9        po-ru-e-ro   1    AES   M   5   o-pe-ra-no   1       AES   M   5
+.10      ạ-ṭụ-ḳọ   1          AES   Ṃ   5   ⟦ko-ma-ḍọ-ro      AES   M   5⟧
+.11      to-so-de  ,  ka-ko     L   3   M   20   ⟦  5⟧
+.12      to-so-de  ,  a-ta-ra-si-jo
+.13                                                     vac.

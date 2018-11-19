@@ -1,0 +1,8 @@
+Kasus: 137
+Doria(1965): 12
+Hajnal(1998): 15
+Local Cases: 73
+Docs2: 31
+Interpretation: 28T/219
+Bartoněk(2002): BA05
+Companion-1: 243/245/294-295T

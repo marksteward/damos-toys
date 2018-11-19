@@ -1,0 +1,9 @@
+Kasus: 199
+Doria(1965): 20
+Hajnal(1998): 32
+Local Cases: 81
+Docs2: 28
+Interpretation: 31T/121
+Melena(2001): 23
+Ruipérez-Melena(1990): 227
+Companion-1: 51/131/139/140/367

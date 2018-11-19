@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 719
+Set: 
+Joins:  + frr.: 6 + fr. + fr. + fr. + frr.
+Writer(s): 1
+Stylus: 719
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 7.7363 + 7.7373 + 7.7379 + 7.8301 + 7.8303 + 7.8322 + 7.8333 + 7.8324 + 7.8325 + 7.8335 + 7.8336 + 7.8337 + 7.8219 + x.83

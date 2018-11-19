@@ -1,0 +1,2 @@
+.A        ]     OVIS:f   8
+.B           ]o  OVIS:m   10[

@@ -1,0 +1,6 @@
+Kasus: 100/259
+Docs2: 265
+Interpretation: 319
+Melena(2001): 66
+Ruipérez-Melena(1990): 247
+Companion-1: 211/221

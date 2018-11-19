@@ -1,0 +1,16 @@
+.1           ro-u-so  ,       we-re-ke  ,
+.2        a-ka-na-jo  ,     ma-ro            OVIS:m   200   X
+.3        a-ka-na-jo  ,     ko-wa-to      CAP:m   50   X
+.4        a-ka-na-jo  ,     ra-mi-ni-jo     CAP:f   40   X
+.5        a                          ma-ra-te-u                OVIS:f   10   X
+.6                                    da-to-re-u                 CAP:m   30
+.7                                    wo-ki-ro                    CAP:f   20   X
+.8                                    ma-ra                         OVIS:f   50   X
+.9                                    ma-ra                         CAP   4̣0
+.10                                   ke-zo                       OVIS:m     40   X
+.11                                   po-ri-ko                   OVIS:m   170   X
+.12                                   wi-sa[-]ṭọ              ]OVIS:f      60   X
+.13                                   ạ-[•]-to                    OVIS:m    40   X
+.14                                   pu-za-ko                 CAP:m   X̣   40
+.15                                   a3-ta-ro-we           OVIS:f       70   X
+.16                vac.

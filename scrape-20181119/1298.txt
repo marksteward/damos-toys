@@ -1,0 +1,2 @@
+.A                               OVIS:m   80        OVIS:f   16
+.B        ke-*83-*18                                pa   OVIS:m   4

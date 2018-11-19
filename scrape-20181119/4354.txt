@@ -1,0 +1,21 @@
+.1          wa-pa-ro-jo  ,  o-ka   ,   ne-wo-ki-to   ,
+.2        ⟦di-wi-je-u  ,   ⟧   e-ri-ko-wo  ,  a2-di-je-u  ,
+.3        a-ki-wo-ni-jo   ,   ⟦                                          ⟧
+.4        wa-ka-ti-ja-ta   ,   ke-ki-de  ,  sa-pi-da
+.5        me-ta-qe  ,  pe-i   ,  e-qe-ta  ,
+.6        pe-re-qo-ni-jo  ,  a-re-i-jo  ,
+.7        ne-wo-ki-to  ,  wo-wi-ja  ,  ko-ro-ku-ra-i-jo  ,
+.8           VIR   20    me-ta-qe  ,  pe-i  ,  e-qe-ta  ,
+.9        di-wi-je-u  ,
+.10                                  vac.
+.11      du-wo-jo-jo  ,  o-ka  ,  a-ke-re-wa  ,
+.12      a2-ku-ni-jo  ,  pe-ri-me-de  ,  ⟦                             ⟧
+.13      pu2-ti-ja   ,   a-pu2-ka-ne  ,  ke-ki-de  ,  po-ra-i   VIR   20
+.14      me-ta-qe  ,  pe-i  ,  e-qe-ta   ,   ḍị-ko-na-ro   ,   a-da-ra-ti-jo
+.15      u-wa-si  ,  ke-ki-de  ,  ne-wo    VIR   10
+.16      me-ta-qe  ,  pe-i  ,  pe-re-u-ro-ni-jo  ,  e-qe-ta ,
+.17                                  vac.
+.18      a-ke-re-wa  ,  ko-ro-ku-ra-i-jo    VIR  ⌞8⌟0
+.19      me-ta-qe  ,  pe-i  ,  e-qe-ta  ,  ka-e-sa-me-no  ,
+.20      a-pu2-ka  ,
+.21                                  vac.

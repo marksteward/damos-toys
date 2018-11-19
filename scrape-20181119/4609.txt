@@ -1,0 +1,19 @@
+.1            a-ki-to-jo  ,  qa-si-re-wi-ja                       HORD[
+.2          ke-ko-jo  ,  qa-si-re-wi-ja                           HORD   [
+.3        a-ta-no-ro  ,  qa-si-re-wi-ja                         HORD      T[
+.4        me-za-ne                        HORD   V   2  a3-ki-a2-ri-jo     V   2[
+.5        me-ri-du-te                    HORD   V   3  mi-ka-ta     HORD   V   3
+.6        di-pte-ra-po-ro             HORD   V   2  e-to-wo-ko               V   2
+.7        a-to-po-qo                      HORD   V   2  po-ro-du-ma-te     HORD   V   2
+.8        o-pi-te-u-ke-e-we        HORD   V   2  i-za-a-to-mo-i     HORD   V   3
+.9        ze-u-ke-u-si                   HORD   V   4
+.10                      ]                                              vac.
+.11      au[-ke-i-]ja-te-wo  ,  do-e-ro-i                HORD   T   1
+.12      mi-jo[-qa   ]  do-e-ro-i                              HORD   V   3
+.13      a-pi-ẹ-ṛạ⌞ ⌟do-e-ro-i                               HORD   V   3
+.14          ]-ẉọ[   ]ṇẹ[           do-e-ro-]i                 HORD   T   3
+.15                                           vac.
+.16                                           vac.
+.17                                           vac.
+.18                                           vac.
+.19                                           vac.

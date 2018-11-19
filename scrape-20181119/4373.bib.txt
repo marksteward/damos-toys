@@ -1,0 +1,3 @@
+Kasus: 163
+Local Cases: 76
+Interpretation: 74/172

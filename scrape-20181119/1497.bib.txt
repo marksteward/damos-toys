@@ -1,0 +1,4 @@
+Kasus: 139
+Doria(1965): 133
+Introduction: 303
+Docs2: 271

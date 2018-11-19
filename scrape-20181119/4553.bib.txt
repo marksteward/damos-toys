@@ -1,0 +1,5 @@
+Docs2: 149
+Interpretation: 96T
+Melena(2001): 37
+Ruipérez-Melena(1990): 231
+Companion-1: 304

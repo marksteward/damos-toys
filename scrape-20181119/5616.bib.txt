@@ -1,0 +1,5 @@
+Kasus: 26
+Docs2: 234
+Interpretation: 263T
+Bartoněk(2002): BA42
+Companion-1: 243/285-289T

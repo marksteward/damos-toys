@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 1379
+Set: 
+Joins: 
+Writer(s): 14
+Stylus: 1412
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 

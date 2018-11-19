@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 438
+Set: 
+Joins:  + fr. + frr. [+] 590
+Writer(s): Ci
+Stylus: -
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: Chora M
+Find spot: 8.2285 + 8.2189 + 8.2196

@@ -1,0 +1,2 @@
+        ]BIG   1     EQU[
+           inf. mut.

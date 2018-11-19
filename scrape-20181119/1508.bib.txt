@@ -1,0 +1,3 @@
+Kasus: 259n.337
+Interpretation: 221T
+Companion-1: 192

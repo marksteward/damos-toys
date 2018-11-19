@@ -1,0 +1,3 @@
+Kasus: 156n.198
+Interpretation: 188T/115/291
+Companion-1: 220

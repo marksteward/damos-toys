@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 149
+Set: 
+Joins:  [+] 940 
+Writer(s): 41
+Stylus: 149
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: x.35 + x.45

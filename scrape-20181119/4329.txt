@@ -1,0 +1,22 @@
+.1          pu-ka-wo   X                VIR   16
+.2        me-ri-du-ma-te            VIR   10   X
+.3        mi-ka-ta   X                    VIR   3
+.4        o-pi-te-u-ke-e-we        VIR   4   X
+.5        e-to-wo-ko   X               VIR   5
+.6          ka-sa-to   X   VIR
+.7        pu-ka-wo   X              VIR   23
+.8        me-ri-da-ma-te  ,              VIR   6
+.9        o-pi-]te-u-ke-e-we  ,               VIR   5   X
+.10      mi-ka-]ta  ,                                       VIR   6   X
+.11      e-]ṭọ-wo-ko  ,  VIR   4   a-to-po-qo   VIR   3
+v.
+.1        po-ru-da-ma-te     VIR   4
+.2                vac.
+.3        qa-ra2-te  ,              VIR
+.4        pu-ko-ro  ,               VIR
+.5        a-ko-so-ta  ,             VIR
+.6        pi-ri-ja-me-j̣ạ          VIR
+.7        e-ni-ja-u-si-jo         VIR
+.8        p̣ṭẹ-jo-ḳọ   VIR   qo-ta-wo   ṾỊṚ[
+.9        a-ta              VIR   te-o-po-q̣ọ[   VIR
+.10                       vest.             [

@@ -1,0 +1,11 @@
+Site: Knossos
+Tablet number: 708
+Set: 4
+Joins:  + 7718 + fr.
+Writer(s): 220
+Stylus: 
+Chronology 1: LM IIIA2-late?
+Chronology 2: LM IIIA2-late?
+Chronology 3: 
+Museum: HM
+Find spot: 

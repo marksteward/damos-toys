@@ -1,0 +1,2 @@
+.A        OVIS:m   ]20            OVIS:f   79
+.B                         ]ra      pa   OVIS:m   1

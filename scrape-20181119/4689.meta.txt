@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 605
+Set: 
+Joins:  + 942 + fr. + fr.: 2
+Writer(s): 2
+Stylus: 310
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 7.4431 + x1.

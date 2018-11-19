@@ -1,0 +1,13 @@
+.1          a[-ke-]re-wa  ,  ka-ke-we  ,  ta-ra-si-ja  ,  e-ko-te
+.2                          ]-ro     AES   M   4   e-u-wa-re   AES   M   4
+.3                                  ]   AES   M   8
+.4                                                                    vac.
+.5          a-pu2-we  ,  ka-ke-we  ,  ta-ra-si-ja  ,  e-ko-te
+.6        te-u-to           AES   M   4       o-ke-te-u      AES   M   4
+.7        pe-ri-qo-ta   AES   M   4        a-me-to        AES   M   4
+.8        ta-re-u           AES   M   3  e-u-po-ro-wo  AES   M   4  tu-ri-jo   AES   M   3
+.9                                                                    vac.
+.10      a-ta-ra-si-jo  ,     ta-na-wo   1   pe-qe-u   1
+.11                                                                 vac.
+.12                                                                 vac.
+.13                                                                 vac.

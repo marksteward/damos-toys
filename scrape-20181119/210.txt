@@ -1,0 +1,1 @@
+        ]TUN     BIG     1     EQU     MO     1

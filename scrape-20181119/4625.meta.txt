@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 343
+Set: 
+Joins:  + 1213 [+] 1209
+Writer(s): 4
+Stylus: 343
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 

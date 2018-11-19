@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 1320
+Set: 
+Joins:  [+] 1442 + 1447 + 1448 + 1455 + frr.: 13 + frr.: 4
+Writer(s): Cii
+Stylus: -
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 

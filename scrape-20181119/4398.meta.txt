@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 608
+Set: 
+Joins: 
+Writer(s): 1
+Stylus: 608
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 7.4348

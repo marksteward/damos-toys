@@ -1,0 +1,2 @@
+.1        ]OVIS:m   LANA   50         [
+.2        ]OVIS:f      LANA   36[

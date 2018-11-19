@@ -1,0 +1,3 @@
+Kasus: 265
+Docs2: 42
+Interpretation: 160

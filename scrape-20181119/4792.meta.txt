@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 195
+Set: 
+Joins:  + fr. [+] 527 
+Writer(s): 1
+Stylus: 106
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.3302 + 8.3442 + 8.3452

@@ -1,0 +1,7 @@
+.1          o-wi-de  ,  a-ko-so-ta  ,  to-ro-qe-jo-me-no  ,  a-ro-u-ra  ,  a2-ri-sa  ,
+.2        a-ke-re-wa  ,  o-ro-jo  ,  to-so-de  ,  pe-mo     GRA   8
+.3        o-da-a2  ,  e-ri-no-wo-to  ,  o-ro-jo  ,  to-so-de  ,  pe-mo     GRA   2̣0
+.4        o-da-a2  ,  ko-tu-wo  ,  o-ro-jo  ,  to-so-de  ,  pe-mo     GRA   20
+.5        o-da-a2  ,  po-ti-ni-ja-we-jo-jo  ,  o-te-pe-o-jo  ,  o-ro-jo  ,  to-so-de  ,  pe-mo     GRA   6
+.6        o-da-a2  ,  ko-no  ,  o-ro-jo  ,  to-so  ,  pe-mo     GRA   40
+.7                                                                                   vacat

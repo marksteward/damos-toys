@@ -1,0 +1,11 @@
+Site: Knossos
+Tablet number: 164
+Set: 4
+Joins:  + 5666 + 7136 + 7544 + 8120 + frr.: 3
+Writer(s): "124"
+Stylus: 
+Chronology 1: LM IIIA1?
+Chronology 2: LM IIIA1?
+Chronology 3: 
+Museum: HM
+Find spot: 

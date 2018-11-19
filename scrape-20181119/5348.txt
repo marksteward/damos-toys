@@ -1,0 +1,9 @@
+.1        te-qa-i                GRA+PE  38              OLIV  44
+.2        e-u-te-re-u        GRA          14              OLIV  87
+.3        ku-te-we-so      GRA          20              OLIV  43
+.4        o-ke-u-ri-jo       GRA            3   T  5
+.5        e-re-o-ni            GRA          12   T  7     OLIV  20
+.6        vac.
+.7        vac.
+.8        to-ṣọ-pa             GRA          88              OLIV  194
+.9                           vac.

@@ -1,0 +1,4 @@
+Local Cases: 77
+Docs2: 61
+Interpretation: 48T/165f
+Companion-1: 212/379

@@ -1,0 +1,16 @@
+.1                    a-pi-a2-ro       VIR   1
+.2        ạ-e-ri-qo                   VIR   1
+.3        du-ni-jo , du-ma     VIR   1
+.4        au-ke-wa                  VIR   1
+.5        du-ni-jo , a-no-ke-wa         VIR   1
+.6        ko-ro-su-ka                           VIR   1
+.7        a-e-ri-qo-ta                            VIR   1
+.8        ka-ra-u-ro                              VIR   1
+.9        a-ta-wo                                   VIR   1
+.10      ta-ra-to     VIR   1                ⟦VIR   1⟧
+.11      me-to-qe-u                            VIR   1
+.12      pe-re-qo-ta  ,  pa-da-je[-u   ]   VIR   1
+.13      a-no-ke-we  ,  ke-ki                    VIR   1
+.14      a-ke-o  ,  ka-wi-jo                       VIR   1
+.15      ki-du-ro                                         VIR   1
+.16            qa-ra2                                      VIR   1

@@ -1,0 +1,13 @@
+.1                  a-si-ja-ti-ja  ,  ka-ke-we  ,  ta-ra-si-ja  ,  e-ko-te
+.2        pa-ra-ke-te-e-we  ,
+.3        po-so-ro     AES   M   1   N   2          ro-wo      AES   M   1   N   2
+.4        a-ti-pa-mo      AES   M   1   N   2     e-u-ka-ro           AES   M   1   N   2
+.5        ma-ra-ta          AES   M   1   N   2     a-no-ta               AES   M   1   N   2
+.6        na-e-si-jo        AES   M   1   N   2      si-ra-ta              AES   M   1   N   2
+.7        ka-ra-u-ro       AES   M   1   N   2     ra-wo-qo-ta     AES   M   1   N   2
+.8        pa-ku-ro2        AES   M   1   N   2     ka-ke-u             AES   M   1   N   2
+.9        ko-ma-we        AES   M   1   N   2     e-u-we-to         AES   M   1   N   2
+.10      e-ke-i-ja-ta      AES   M   1   N   2     mo-re-u   [        AES
+.11      wo-wa-ro         AES   M   1   N   2                       [
+.12      to-so-de  ,  a-ta-ra-si-jo  ,̣  du-wo-jo   1   di-ra-wo-no[     1
+.13      e-u-we-to-ro  ,  do-e-ro   1   e[

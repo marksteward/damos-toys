@@ -1,0 +1,15 @@
+.1a                                                                                           -ja
+.1b        me-ta-pa  ,  ke-ri-mi-ja  ,  do-qe-ja  ,  ki-ri-te-wi-
+.2        do-qe-ja  ,  do-e-ro  ,  pa-te  ,  ma-te-de  ,  ku-te-re-u-pi
+.3                     MUL   6   do-qe-ja  ,  do-e-ra  ,  e-qe-ta-i  ,  e-e-to ,
+.4        te-re-te-we   MUL   13
+.5        do-qe-ja  ,  do-e-ro  ,  pa-te  ,  ma-te-de  ,  di-wi-ja  ,  do-e-ra  ,
+.6        MUL   3   do-qe-ja  ,  do-e-ra  ,  ma-te  ,  pa-te-de  ,  ka-ke-u  ,
+.7        MUL   1   do-qe-ja  ,  do-e-ra     ma-te  ,  pa-te-de  ,  ka-ke-u  ,
+.8        MUL   3
+.9                                                           vac.
+.10                                                         vac.
+.11                                                                        KA
+.12                                                         vac.
+.13                                                         vac.
+.14                                                         vac.

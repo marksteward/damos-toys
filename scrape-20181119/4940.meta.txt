@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 766
+Set: 
+Joins: 
+Writer(s): 26
+Stylus: 287
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 7.64

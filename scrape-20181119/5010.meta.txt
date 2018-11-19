@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 612
+Set: 
+Joins:  + 1122 + fr. + frr. + fr. + frr.
+Writer(s): 1
+Stylus: 2
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 7.4358 + 7.4357

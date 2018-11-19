@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 927
+Set: 
+Joins:  [+] 937 + frr.: 3 [+] 939 [+] 944 [+] 1164
+Writer(s): 2
+Stylus: 310
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: x.83 + 7.54 + x.45 + 7.64 + x.

@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 142
+Set: 
+Joins: 
+Writer(s): 22
+Stylus: 142
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.1124B + 8.1113B

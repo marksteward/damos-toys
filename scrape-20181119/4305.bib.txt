@@ -1,0 +1,2 @@
+Kasus: 256
+Interpretation: 26T

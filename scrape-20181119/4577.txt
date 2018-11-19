@@ -1,0 +1,14 @@
+.1                pi-ro-na  ,  te-o-jo  ,  do-e-ra  ,  o-na-to  ,  e-ke  ,  ḳẹ[-ke-me-na  ko-to-na
+.2              e-ri-qi-ja  ,  ṭẹ-ọ-j̣ọ  ,̣  do-e-ra  ,  o-na-to  ,  e-ke  ,  ke-ke-ṃẹ[-na   ko-to-na
+.3             i-na  ,  te-o-jo  ,  do-e-ro  ,  o-na-to  e-ke  ,  ke-ke-me-na  ko-to[-na  pa-ro  da-mo
+.4            po-so-re-ja⌞ ⌟ṭẹ-o-j̣ọ  ,  ḍọ-e-ra  ,  ọ[-na-]ṭọ  ,̣  e-ke  ,  ḳẹ-ke[-me-na  ko-to-na
+.5           po-so-re-ja  ,  te[-o-jo ]do-e-ra  ,  o-na-to  ,  e-ke  ,  pa-ṛọ[                              ],  ka-ṃạ-e-we  ,  wo-zo-te  ,  to-so  ,  pe-ṃọ[                   GRA
+.6        te-qa-ja  ,  te[-o-]jo  ,  ḍọ-e-ra  ,  o-na-to  ,  e-ke  ,  ke-ke-me-na  ,  ko-to-na  ,  pạ-ṛọ⌞ ⌟da-mo  to-so  pe-mo                                           GRA   T   2
+.7          me-re-u  ,  i-je-re-ja  ,  do-e-ro  ,  o-na-to  ,  e-ke  ,  pa-ro  ,  [          ]ṛẹ-ma-ta  ,  ka-ma-e-ẉẹ⌞ ⌟o-u-qe  ,  wo-ze  ,  to-so  pe-mo            GRA[     ]      V   2
+.8        te-te-re-u  ,  i-je-re-ja  ,  do-e-ro  ,  o-ṇạ-to  ,  e-ke  ,  ke-ḳẹ-me-na  ,  ko-to-na  ,  pa-ro  ,  da-mo  ,  to-so⌞ ⌟pe-mo                                     GRA              V   3
+.9          pu-[•]-da-ka  ,  ka-pa-ti-ja  ,  do-e-ro  ,  o-na-to  ,  e-ke⌞ ⌟ḳẹ-ke-me-na  ,  ko-to-na  ,  pa-ro  ,  da-mo  ,  to-so pe-mo                              GRA   T   3̣   Ṿ   3
+.10        e-ni-to-wo⌞ ⌟ạ-pi-me-de-o  ,  do-e-ro  ,  o-na-to  ,  e-ke  ,  ke-ke-me-na  ,  ko-to-na  ,  pa-ro  ,  da-mo  to-so  pe-mo                              GRA   T   1
+.11        to-wa-te[-u  ]a-pi-ṃẹ-ḍẹ-ọ⌞ ⌟do-e-ro  ,  o-na-to  ,  e-ke  ,  ke-ke-me-na⌞ ⌟ko-to-na  ,  pa-ro  ,  da-mo  to-so  pe-mo                           GRA   T   8
+.12      wi-dwo-i-jo  ,  a-pi-me-de-o  ,  do-ẹ[-ro]  ,  o-na-to  ,  e-ke  ,  ke-ke-me-na  , ko-to-na  ,  pa-ṛọ⌞ ⌟da-mo  ,  to-so  ,  pe-mo                     GRA   Ṭ   2̣
+.13      we-te-re-u  ,  i-j̣ẹ-re-u  ,  o-na-to  ,  e-ke  ,  ke-ke-me-na  ,  ko-to-na  ,  pa-ro  ,  da-ṃọ[     ]vac.[                   ]to-so  ,  pe-mo                       GRA   2   T   3
+.14           a-pi[-me-]ḍẹ  ,  e-ke  ,  e-to-ni-jo  ,  ke-ke-me[-na-o  ko-]to-na[-o  ]ṭọ-so  ,  pe-mo                                                                   GRA   4   T   6

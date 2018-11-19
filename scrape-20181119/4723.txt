@@ -1,0 +1,3 @@
+.1            ti-mi-to-a-ke-e  *146   24   RI   M   24   KE   M   7  *152   10     O   M   5   ME   500
+.2        a-pu-do-si  *146   21  o  2   RI   M            KE   M  *152                 O   M        ME
+.3          o-da-a2  ,  ka-ke-we  ,  o-u-di-do-si  *146   1   RI     M 1                ME   10

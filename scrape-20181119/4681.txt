@@ -1,0 +1,17 @@
+.1           ]a-ke-re-wa  ,  ka-ke-we  ,  ta-ra-si-ja  ,  e-ko-te  ,
+.2        ti-qa-jo     AES   M   1   N   2   qe-ta-wo            AES   M   1   N   2
+.3        a3-so-ni-jo     AES   M   1   N   2   ta-mi-je-u         AES   M   1   N   2
+.4        e-u-ru-wo-ta     AES   M   1   N   2   e-u-do-no         AES   M   1   N   2
+.5        po-ro-u-te-u      AES   M   1   N   2   wi-du-wa-ko   AES   M   1   N   2
+.6                                                               vac.
+.7        to-so-de  ,  a-ta-ra-si-jo  , ka-ke-we[   ]                 vac.
+.8        pa-qo-si-jo   1   ke-we-to   1   wa[              ]re-u[        1]     vac.
+.9        pe-ta-ro   1
+.10                                                     vac.
+.11           to-so-de  ,  do-e-ro  ,  ke-we-to-jo     1     i-wa-ka-o     1
+.12      pa-qo-si-jo-jo    1    po-ro-u-te-wo         1
+.13      ⟦a[                     ⟧                                  vac.
+.14      po-ti-ni-ja-we-jo  ,  ka-ke-we  ,  ta-ra-si-ja  ,  e-ko-te  ,
+.15      i-ma-di-jo     AES   M   2     tu-ke-ne-u   AES   M   3
+.16                   ]   AES   M   3   i-wa-ka   AES   M   3
+.17               a-]ta-ra-si-jo  ,  pu2-ṣị-ja-ko       1

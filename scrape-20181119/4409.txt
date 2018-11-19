@@ -1,0 +1,12 @@
+.1            a-*64-jo  ,  a-ke-ro                       CAP:f   1
+.2        te-re-do    ka-na-pe-u                      CAP:f   1
+.3        na-ma-ru-ko                                        CAP:f   1
+.4        qe-ta-ko    ke-ra-me-u                        CAP:f   1
+.5        da-u-da-ro  ,  pe-re-ke-u                     CAP:f   1
+.6        mu-ti-ri-ko  ,  di-u-ja  ,  do-e-ro          CAP:f   1
+.7        a2-ra-ka-wo  ke-re-ta-o  do-e-ro        CAP:f   1
+.8        a-sa-ma-o                                                    CAP:f   1
+.9        mo-ri-wo                                                      CAP:f   2
+.10      ma-ni-ko                                                        CAP:f   1
+.11                               vac.
+.12                               vac.

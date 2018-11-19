@@ -1,0 +1,3 @@
+Kasus: 102/164
+Introduction: 172
+Interpretation: 164

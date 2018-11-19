@@ -1,0 +1,2 @@
+.1        i-qo      EQU:f   5                      EQU:m   4     po-ro EQU[
+.2           o-no     EQU:f   3     po-ro   EQU   2          EQU:m   4           [

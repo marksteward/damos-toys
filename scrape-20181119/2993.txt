@@ -1,0 +1,4 @@
+.a        ]⟦vest.⟧
+.b        ]⟦vest.⟧
+v.→
+        OVIS:m        [

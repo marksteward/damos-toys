@@ -1,0 +1,4 @@
+.0           sup. mut.
+.1        ]BOS   ZE   1
+.2        ]BOS   ZE   1
+.3           inf. mut.

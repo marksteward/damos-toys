@@ -1,0 +1,16 @@
+.1        o-u-ru-to , o-pi-a2-ra , e-pi-ko-wo ,
+.2        ma-re-wo  ,  o-ka  ,  o-wi-to-no  ,
+.3        a-pe-ri-ta-wo  ,  o-re-ta  ,  e-te-wa  ,  ko-ki-jo  ,
+.4        su-we-ro-wi-jo  ,  o-wi-ti-ni-jo  ,  o-ka-ra3   VIR   50
+.5                                          vac.
+.6        ne-da-wa-ta-o  ,  o-ka  ,  e-ke-me-de  ,
+.7        a-pi-je-ta  ,  ma-ra-te-u  ,  ta-ni-ko  ,
+.8        a2-ru-wo-te  ,  ke-ki-de  ,  ku-pa-ri-si-jo   VIR   20
+.9                                          vac.
+.10      a3-ta-re-u-si  ,  ku-pa-ri-si-jo  ,  ke-ki-de   VIR   10
+.11      me-ta-qe  ,  pe-i  ,  e-qe-ta  ,  ke-ki-jo  ,
+.12      a-e-ri-qo-ta  ,      e-ra-po  ,  ri-me-ne  ,
+.13a                           o-wi-
+.13b    o-ka-ra  ,    -to-no   VIR   30   ke-ki-de-qe  ,  a-pu2-ka-ne  ,
+.14A        VIR   20     me-ta-qe  ,  pe-i  ,  a3-ko-ta  , e-qe-ta  ,
+.14B                                        vac.

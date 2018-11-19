@@ -1,0 +1,11 @@
+.1             jo-a-se-so-si  ,  si-a2-ro
+.2        o-pi-da-mi-jo
+.3        pi-*82                       SUS+SI   3
+.4        me-ta-pa                  SUS+SI   3
+.5        pe-to-no                  SUS+SI   6
+.6        pa-ki-ja-si               SUS+SI   2
+.7        a-pu2-we                SUS+SI   2
+.8        a-ke-re-wa             SUS+SI   2
+.9        e-ra-te-i                   SUS+SI   3
+.10      ka-ra-do-ro           SUS+SI   2
+.11      ri-jo                         SUS+SI   2

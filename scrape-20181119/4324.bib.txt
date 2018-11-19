@@ -1,0 +1,3 @@
+Kasus: 161
+Local Cases: 80
+Interpretation: 36T/74

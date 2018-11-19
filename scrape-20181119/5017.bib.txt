@@ -1,0 +1,3 @@
+Kasus: 216
+Interpretation: 162/222
+Companion-1: 130

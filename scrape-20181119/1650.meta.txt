@@ -1,0 +1,11 @@
+Site: Knossos
+Tablet number: 5130
+Set: -
+Joins:  + 8179 + fr.
+Writer(s): 133
+Stylus: 
+Chronology 1: LM IIIA2-late?
+Chronology 2: LM IIIA2-late?
+Chronology 3: 
+Museum: HM
+Find spot: 

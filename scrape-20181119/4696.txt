@@ -1,0 +1,24 @@
+.1               jo-do-so-si  , ko-re-te-re  ,  du-ma-te-qe  ,
+.2a                                                                                                                            -e-we-qe
+.2b      po-ro-ko-re-te-re-qe  ,  ka-ra-wi-po-ro-qe  ,  o-pi-su-ko-qe  ,  o-pi-ka-pe-
+.3        ka-ko  ,  na-wi-jo  ,  pa-ta-jo-i-qe  ,  e-ke-si-qe  ,  a3-ka-sa-ma
+.4        pi-*82  ,  ko-re-te  ,        AES   M   2   po-ro-ko-re-te       AES   N   3
+.5        me-ta-pa  ,  ko-re-te         AES   M   2   po-ro-ko-re-te   AES   N   3[   ] vac.
+.6        pe-to-no  ,  ko-re-te          AES   M   2   po-ro-ko-re-te                      AES   N   3
+.7        pa-ki-ja-pi  ,  ko-re-te               AES   M   2   po-ro-ko-re-te              AES   N   3
+.8        a-pu2-we  ,  ko-re-te                 AES   M   2   po-ro-ko-re-te              AES   N   3
+.9        ạ-ke-re-wa  ,  ko-re-te              AES   M   2   po-ro-ko-re-te              AES   N   3
+.10      ṛọ-ụ-so  ,  ko-re-te                     AES   M   2   po-ro-ko-re-te              AES   N   3
+.11      ḳạ-ra-do-ro  ,  ko-re-te             AES   M   2   po-ro-ko-re-te              AES   N   3̣
+.12      ri-]j̣ọ  ,  ko-re-te                          AES   M   2   po-ro-ko-re-te              AES   N   3
+.13      ṭị-mi-to-a-ke-e  ,  ko-re-te        AES   M   2   po-ro-ko-re-te             AES   N   3
+.14      ra-]wa-ra-ta2  ,  ko-re-te          AES   M   2   N   3  po-ro-ko-re-te   AES   N   3
+.15      sa-]ma-ra  ,  ko-re-te                 AES   M   3   N   3   po-ro-ko-re-te             N   3
+.16      a-si-ja-ti-ja⌞ ⌟ḳọ-re-te             AES   M   2              po-ro-ko-re-te             N   3
+.17      e-ra-te-re-wa-pi  ,  ko-re-te     AES   M   2              po-ro-ko-re-te             N   3
+.18      za-ma-e-wi-ja  ,̣  ḳọ-re-te          AES   M   3   N  3̣     po-ro-ko-re-te           N   3
+.19      e-re-i  ,  ko-re-te                          AES   M   3   N   3̣      po-ro-ko-re-te         N   3
+.20                                                                          vac.
+.21                                                                          vac.
+.22                                                                          vac.
+.23                                                                          vac.

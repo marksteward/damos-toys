@@ -1,0 +1,8 @@
+.1                    a-ma-ṛụ-ta-o  ,  ḳọ-to-na  ,  ki-ṭị-me-na                                     ⟦G̣ṚẠ⟧                 GRA   2   T[   3
+.2           so-u-ro⌞ ⌟te-o-jo  ,  do-e-ro  ,  e-ke-q̣ẹ  ,  o-ṇạ-ṭọ⌞ ⌟p̣ạ-ṛọ  ,  pa-ra-ko                 GRA          V   3[
+.3        e-do-mo-ne-u  ,  te-o-jo do-e-ro  ,  e-ke-qe  ,  o[-na-to]  ,  pa-ro  ,  pa-ra-ko  ,         GRA         T   1
+.4        e-sa-ro  ,  te-o-jo  ,  do-e-ro  ,  e-ke-qe  ,  o-ṇạ[-to   ]pa-ro  ,  a-ma-ru-ta                   GRA          V   3
+.5        wa-na-ta-jo  ,  te-re-ta  ,  e-ke-qe  ,  o-na-to  ,          pa-ro  ,  a-ma-ru-ta                     GRA         T
+.6        e-ra-ta-ra  ,  i-je-re-ja  ,  do-e-ra  ,  pa-ki-ja-na  ,  e-ke-qe  ,  pa-ro  ,  a-ma-ru-ta     GRA        T   1
+.7        po-so-re-ja  ,  te-o-jo  ,  do-e-ra  ,  e-ke-qe  ,  o-na-to  ,  pa-ro  ,  ta-ta-ro                   GRA        T   1   V   3
+.8           i-je-re-ja  ,  pa-ki-ja-na  ,  ,  e-ke-qe  ,  o-na-to  ,  pa-ro⌞ ⌟a-ma-ru-ta                    GRA        T   3

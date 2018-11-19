@@ -1,0 +1,2 @@
+.1        ka-ta-ra-i  /    a-ko-ra-ja     OVIS:m   100      OVIS:f   650
+.2          CAP:m   40[   ]   CAP:f   150   SUS:f   80   ⟦BOS:m⟧   BOS:f   6

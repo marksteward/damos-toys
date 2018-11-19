@@ -1,0 +1,16 @@
+.1        wa-no-jo  ,  wo-wo  ,  pa-ro  ,  ne-ti-ja-no-re  ,  pa-ra-jo          OVIS:m   140
+.2        wa-no-jo  ,  wo-wo  ,  pa-ro  ,  po-so-pe-re-i  ,  wo-ne-we       OVIS:m   75
+.3        wa-no-jo  , wo-wo  ,  pa-ro  ,  zo-wi-jo  ,  a-ko-so-ta-o             OVIS:m   70
+.4        wa-no-jo  ,  wo-wo  ,  p̣ạ-ṛọ  ,  po-ru-qo-ta  ,  we-da-ne-wo   OVIS:m   60
+.5        e-ko-me-no  ,  pa-ro  ,  pa-ta  ,  pa-ra-jo                                        OVIS:m   80
+.6        e-ko-me-no  ,  pa-ro  ,  [        ]ma-te-we  ,  we-da-ne-wo          OVIS:m   70
+.7        a-ne-u-te  ,  pa-ro  ,  ma-ri-ti-wi-jo  ,  a-ko-so-ta-o                    OVIS:m   83
+.8        ma-ro-pi  ,  pa-ro  ,  ro-ko  ,  pa-ra-jo                                             OVIS:m   150
+.9        ma-ro-pi  ,  pa-ro  ,  ka-da-ro  ,  we-da-ne-wo                            OVIS:m   85
+.10      ma-ro  ,  pa-ro  ,  tu-ri-ta  ,  a-ke-ọ-jo                                            OVIS:m   80
+.11      re-pe-u-ri-jo  ,  pa-ro  ,  e-zo-wo  ,  a[-ko-so-]ṭạ-ọ                    ỌṾỊṢ:m   82
+.12      ma-ro  ,  pa-ro  ,  ma-u-ti-jo  ,  a-ko-ṣọ-ta-o                                OVIS:f   60
+.13      a-ne-u-te pa-ro  ,  ka-ta-wa  ,  a-ko-so-ta                                    OVIS:f   80
+.14      a-te-re-wi-ja  ,̣  pa-ro  ,  e-wi-te-we  ,  a-ke-o-jo                        OVIS:f   70
+.15                                                                 vac.
+.16                                                                 vac.

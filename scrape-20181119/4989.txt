@@ -1,0 +1,4 @@
+.1        SUS+SI   3     BOS:f   2     BOS:m   8
+.2            OVIS:m   67
+v.
+           HORD   2̣9̣        T   8        V   2̣

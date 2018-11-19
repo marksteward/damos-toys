@@ -1,0 +1,11 @@
+Site: Knossos
+Tablet number: 536
+Set: 1
+Joins:  [+] 7383 + 7731
+Writer(s): 103
+Stylus: 
+Chronology 1: LM IIIA2-late?
+Chronology 2: LM IIIA2-late?
+Chronology 3: 
+Museum: HM
+Find spot: 

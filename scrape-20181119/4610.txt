@@ -1,0 +1,15 @@
+.1        a3-pu-ke-ne-ja                                   HORD   T   6   V   4   OLIV   1[
+.2        a-ki-re-we                                           HORD   T   5
+.3        du-ni-jo  ,  ti-ni-ja-ta                         HORD   V   5
+.4        to-sa-no                                                HORD   T   6   V   4   OLIV   1
+.5        ne-e-ra-wo                                          HORD   T   6   V   4   OLIV   1
+.6        a-e-se-wa                                            HORD   T   6   V   4   OLIV   1
+.7        ka-ra-so-mo                                       HORD   V   5      ⟦OLIV      ⟧
+.8        wa-di-re-we                                       HORD   T   2   V   3   OLIV   T   7
+.9        pe-qe-we                                             HORD   T   1   V   4
+.10      ze-u-ke-u-si  ,  i-po-po-qo-i-qe     HORD   1   T   7   V   3
+.11      te-ra-wo-ne                                        HORD   V   5
+.12      to-wa-no-re                                        HORD   T   6   V   4   OLIV   1   [
+.13      e-to-wo-ko-i                                       HORD   T   5   V   1
+.14      a-ki-to                                                  HORD   T   2   V   3   OLIV   1
+.15              a3-ki-a2-ri-jo                             HORD   T   1   V   4

@@ -1,0 +1,11 @@
+Site: Knossos
+Tablet number: 647
+Set: 2
+Joins:  + 2012 + 5943 + 5974
+Writer(s): 103
+Stylus: 
+Chronology 1: LM IIIA2-late?
+Chronology 2: LM IIIA2-late?
+Chronology 3: 
+Museum: HM
+Find spot: 

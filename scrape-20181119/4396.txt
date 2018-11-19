@@ -1,0 +1,9 @@
+.1a                                        pa-ro
+.1b         wa-no-jo  ,  wo-wo  ,  ne-ti-ja-no  a-ke-o-jo     CAP:m   100
+.2            a2-ne-u-te  ,  pa-ro  ,  ka-so  ,  a-ko-so-ta-o             CAP:m   45
+.3            a2-pa-tu-wo-te  ,  pa-ro  ,  a-ke-ra-wo  ,  a-ke-o-jo     CAP:m   90
+.4            a2-pa-tu-wo-te  ,  pa-ro  ,  ru-we-ta  ,  a-ke-o-jo          CAP:f   40
+.5            a2-pa-tu-wo-te  ,  pa-ro  ,  a-wo-i-jo  ,                             CAP:f   50
+.6            wa-no-jo ,  wo-wo  ,  pa-ro  ,  ke-re-no  ,  a-ke-o-jo     CAP:f   80
+.7            a2-pa-tu-wo-te  ,  pa-ro  ,  e-zo-wo                                  SUS:f   30
+.8        e-ko-me-no  ,  pa-ro  ,  ti-ri-po-di-ko                                  SUS:f 57

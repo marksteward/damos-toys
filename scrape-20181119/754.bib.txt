@@ -1,0 +1,7 @@
+Kasus: 73
+Doria(1965): 94
+Docs2: 29
+Interpretation: 32T/152/278
+Melena(2001): 29
+Ruipérez-Melena(1990): 227
+Companion-1: 132

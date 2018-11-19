@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 34
+Set: 
+Joins:  + 1191 + 1006 [+] fr.
+Writer(s): Ciii
+Stylus: -
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.3135B + x0.

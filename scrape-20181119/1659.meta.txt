@@ -1,0 +1,11 @@
+Site: Knossos
+Tablet number: 5144
+Set: -
+Joins:  + 5152 + 7482 + frr.
+Writer(s): "124"f
+Stylus: 
+Chronology 1: LM IIIA1?
+Chronology 2: LM IIIA1?
+Chronology 3: 
+Museum: HM
+Find spot: 

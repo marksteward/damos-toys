@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 98
+Set: 
+Joins: 
+Writer(s): 4
+Stylus: 60
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.1315B + 8.1314B

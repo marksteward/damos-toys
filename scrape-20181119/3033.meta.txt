@@ -1,0 +1,11 @@
+Site: Knossos
+Tablet number: 8436
+Set: -
+Joins:  + 9087
+Writer(s): 141
+Stylus: 
+Chronology 1: LM IIIA2-late?
+Chronology 2: LM IIIA2-late?
+Chronology 3: 
+Museum: HM
+Find spot: 

@@ -1,0 +1,2 @@
+.A        ]OVIS:m   20     LANA   6     M   1
+.B        ]     o   LANA   3   M   2

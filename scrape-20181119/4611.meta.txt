@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 187
+Set: 
+Joins: 
+Writer(s): 2
+Stylus: -
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.2289 + 8.3341 + 8.2423 + 8.2422 + 8.2338 + 8.3342

@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 1274
+Set: 
+Joins:  + fr.: 3
+Writer(s): Ciii
+Stylus: 1272
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 

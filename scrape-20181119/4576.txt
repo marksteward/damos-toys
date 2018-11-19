@@ -1,0 +1,15 @@
+.1          ke-ke-me-na  ,  ko-to-na  ,  a-no-no  ,  to-so-de  ,  pe-mo  [     GRA   1   T   1
+.2a                                     ko-to-no-                                       -o-ko
+.2b        a3-ti-jo-qo  ,  o-na-to  ,  e-ke  ,  pa-ro  ,  da-mo  ,  ke-ke-me-na  ,  ko-to-na  ,  to-so  ,  [pe-mo     ]G̣ṚẠ   1   Ṭ   4   V   3
+.3        wa-na-ta-jo  ,  o-na-to  ,  e-ke  ,  pa-ro  ,  da-mo  ,  ke-ke-me-na  ,  ko-to-na  ,  to-so-de⌞ ⌟pe-mo      GRA   T
+.4        a-da-ma-o  ,  o-na-to  ,  e-ke  ,  pa-ro  ,  da-mo  ,  ke-ke-me-na  ,  ko-to-na  ,  to-so⌞ ⌟p̣ẹ-mo    GRA   T   4
+.5        a-tu-ko  ,  e-te-do-mo  ,  o-na-to  ,  e-ke  ,  pa-ro  ,  da-mo  ,  ke-ke-me-na  ,  ko[-to-na to-so  pe-mo        GRA
+.6        ta-ta-ro  ,  o-na-to  ,  e-ke  ,  pa-ro  ,  da-mo  ,  ke-ke-me-na  ,  ko-to-na  ,  to-so  pe-ṃọ[   GRA   V   3
+.7                                                                                                     vac.
+.8        p̣ị-ke-re-u  ,  e-ke-qe  ,  ke-ke-me-na  ,  ko-to-na  ,  ko-to-no-o-ko  ,  to-so  ,  pe-mo[     GRA
+.9        ra-ku-ro  ,  e-ke-qe  ,  ke-ke-me-na  ,  ko-to-na  ,  ko-to-no-o-ko  ,  to-so  ,  pe-mo     GRA[
+.10      ku-so  ,  e-ke-qe  ,  ke-ke-me-na  ,  ko-to-na  ,  ko-to-no-o-ko  ,  to-so  pe-mo   GRA   V   [   3
+.11      ke-ra-u-jo  ,  e-ke-qe  ,  ke-ke-me-na  ,  ko-to-na  ,  ko-to-no-o-ko  ,  to  pe-mo     GRA   T   4
+.12      pa-ra-ko  ,  e-ke-qe  ,  ke-ke-me-na  ,  ko-to-na  ,  ko-to-no-o-ko  ,  to-so  pe-mo     GRA   T   7
+.13      ko-tu[-ro2]  ,  e-ke-qe  ,  ke-ke-me-na  ,  ko-to-na  ,  ko-to-no-o-ko  ,  to-so  ,  pe-mo     GRA   T   1
+.14      a-i-qe-u  ,  e-ke-qe  ,  ke-ke-me-na  ,  ko-to-na  ,  ko-to-no-o-ko  ,  to-so  ,  pe-mo      GRA   T   6

@@ -1,0 +1,8 @@
+.1        ko-ri-si-jo  ,  ta-te-re
+.2        ra-mi-ni-jo     VIR   1   a2-ta         VIR   1
+.3        o-pe-re-ta       VIR   1   a-ke-ti-jo           VIR   1
+.4        do-ro-me-u    VIR   1   te-wa-ko-no     VIR   1
+.5        i-na-o               VIR   1   mi-ko-no           VIR   1
+.6        a-e-ri-qo-ta    VIR   1   ta-nu-ko            VIR   1
+.7        to-ke-u            VIR   1   da-na-ko            VIR   1
+.8        re-a-mo          VIR   1

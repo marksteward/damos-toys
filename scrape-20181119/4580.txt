@@ -1,0 +1,10 @@
+.1        ma-ra3-wa  ,  te-o-jo   , do-e-ra  ,  o-na-to  ,  e-ke  ,  ke-ḳẹ[-me-na  ko-to-na  pa-ro  da-mo  to-so  pe-mo         GRA   ]Ṭ   2
+.2        ka-ta-no  ,  te-o-jo  ,  do-e-ro  ,  o-na-to  ,  e-ke[   ke-ke-me-na  ko-to-na  pa-ro  da-mo  to-so  pe-]mo              GRA   T   2
+.3        du-ni-jo  ,  te-o-jo  ,  do-e-ro  ,  o-na-to  ,  e[-ke  ke-ke-me-na  ko-to-na  pa-ro  da-mo  to-]ṣọ  pe-mo                GRA   T   1
+.4        e-sa-ro  ,  te-o-jo  ,  do-e-ro  ,  o-na-to[   e-ke  ke-ke-me-na  ko-to-na  pa-]ṛọ  ,  ḍạ-mo  ,  to-so  pe-mo               GRA   V   2
+.5        ka-ra-u-du-ro  ,  te-o-jo  ,  do-e-ṛọ  ,  o-na-to  ,  ẹ-ḳẹ  ,  [ke-ke-me-na ko-]ṭọ-na  ,  pa-ro  ,  da-mo  to-so  pe-mo      GRA   T   2
+.6        to-ro-ja  ,  te-o-jo  ,  do-e-ra  o-na-to  ,  e-ke  ,  ke-ke-me-ṇạ  ,  ko-to-na  ,  pa-ro  ,  da-mo  to-so  pe-mo                    GRA   T   1
+.7        o-re-a2  ,  te-o-jo  ,  do-e-ro  ,  ọ-na-to  ,  e-ke⌞ ⌟ke-ke-me-na  ,  ko[-to-]ṇạ  ,  pa-ro  ,  da-mo  ,  to-so  ,  pe-mo      GRA   V   2
+.8        e-ko-to  ,  te-o-jo  ,  do-e-ro  ,  o-ṇạ-to  ,  e-ke  ,  ke-ke-me-na  ,  ko-to-na  ,  pa-ro  ,  da-mo  ,  to-so  ,  pe-mo            GRA   T   2
+.9        pu-ko-wo  ,  te-o-jo  ,  do-e-ro⌞ ⌟o-na-to  ,  e-ke  ,  ke-ke-me-na[  ko-to-na  pa-ro da-]ṃọ⌞ ⌟to-so  pe-mo             GRA   T   2
+.10      ta-ra-mi-ka  ,  te-o-jo⌞ ⌟do-e-ra  ,  o-na-to  ,  e-ke  ,  ke-ḳẹ[-me-na  ko-to-na  pa-ro  da-]mo  ,  to-so  pe-mo           GRA   T   1   Ṿ[

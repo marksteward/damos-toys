@@ -1,0 +1,12 @@
+.1           de-u-ki-jo-jo       'me-no'
+.2        di-ka-ta-jo  /  di-we    OLE    S   1
+.3        da-da-re-jo-de     OLE    S   2
+.4        pa-de      OLE    S   1
+.5        pa-si-te-o-i         OLE   1
+.6        qe-ra-si-ja          OLE    S   1[
+.7        a-mi-ni-so   , /    pa-si-te-o-i    S   1[
+.8        e-ri-nu  ,          OLE    V   3
+.9        *47-da-de       OLE    V   1
+.10      a-ne-mo  , /  i-je-re-ja      V   4
+.11                       vac.
+.12      to-so       OLE   3     S   2     V   2

@@ -1,0 +1,2 @@
+Kasus: 30
+Local Cases: 58

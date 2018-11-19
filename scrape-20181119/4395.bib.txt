@@ -1,0 +1,4 @@
+Kasus: 164
+Doria(1965): 24
+Local Cases: 76
+Interpretation: 52T/74

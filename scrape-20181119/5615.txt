@@ -1,0 +1,6 @@
+.0            sup. mut.
+.1        vac.
+.2        vac.
+.3        vac.
+.4        vac.
+.5             inf. mut.?

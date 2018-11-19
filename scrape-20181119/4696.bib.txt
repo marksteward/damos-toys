@@ -1,0 +1,10 @@
+Kasus: 169
+Doria(1965): 47
+Introduction: 206
+Local Cases: 74
+Docs2: 257
+Interpretation: 173T/76/89/281
+Melena(2001): 52
+Bartoněk(2002): BA27
+Ruipérez-Melena(1990): 240
+Companion-1: 133/216

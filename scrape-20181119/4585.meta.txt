@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 880
+Set: 
+Joins:  + fr.
+Writer(s): 24
+Stylus: 312
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: x.35 + x.24 + x.25 + 2.2615

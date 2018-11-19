@@ -1,0 +1,11 @@
+Site: Knossos
+Tablet number: 619
+Set: 1
+Joins:  + 5633 + 5892 + 5963 + 6010 + 8258 + 8687 + fr.
+Writer(s): 103
+Stylus: 
+Chronology 1: LM IIIA2-late?
+Chronology 2: LM IIIA2-late?
+Chronology 3: 
+Museum: HM
+Find spot: 

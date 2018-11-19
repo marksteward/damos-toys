@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 49
+Set: 
+Joins: 
+Writer(s): Ciii
+Stylus: 49
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.2143B + 8.1182B + 8.2127

@@ -1,0 +1,14 @@
+.1          sa-ra-pe-da  ,  po-se-da-o-ni  ,  do-so-mo
+.2        o-wi-de-ta-i  ,  do-so-mo  ,  to-so  ,  e-ke-ra2-wo
+.3        do-se  ,    GRA   4  VIN  3 BOS:m 1
+.4        tu-ro2  ,  TU±RO2   10   ko-wo  ,  *153   1
+.5        me-ri-to  ,      V   3
+.6                                                               vac.
+.7        o-da-a2  ,  da-mo  ,     GRA   2     VIN   2
+.8        OVIS:m 2  TU±RO2   5   a-re-ro  ,  A±RE±PA   V   2   *153   1
+.9        to-so-de  ,  ra-wa-ke-ta  ,  do-se  ,
+.10      OVIS:m   2   me-re-u-ro  ,  FAR   T   6
+.11a                                                                                   -ma
+.11b    VIN   S   2   o-da-a2  ,  wo-ro-ki-jo-ne-jo  ,  ka-
+.12      GRA   T   6   VIN   S  1 TU±RO2 5 me-ri[
+.13                vac.     [                        me-]ṛị-to V 1

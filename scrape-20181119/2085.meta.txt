@@ -1,0 +1,11 @@
+Site: Knossos
+Tablet number: 5962
+Set: -
+Joins:  + 7777 + 8602 + fr.
+Writer(s): -
+Stylus: 
+Chronology 1: LM IIIA2-late?
+Chronology 2: LM IIIA2-late?
+Chronology 3: 
+Museum: HM
+Find spot: 

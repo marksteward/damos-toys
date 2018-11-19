@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 424
+Set: 
+Joins:  + fr. + fr. + fr.
+Writer(s): 3
+Stylus: 298
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.22 + 8.2216 + 8.2205 + 8.2224

@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 365
+Set: 
+Joins:  + frr.: 3 + fr.
+Writer(s): 2
+Stylus: 90
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.2269 + 8.2249 + 8.2320 + 8.2343 + 8.2353 + 8.1397

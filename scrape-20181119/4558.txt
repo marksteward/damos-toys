@@ -1,0 +1,24 @@
+.1                ru-*83-o  ,  ko-to-na⌞ ⌟ki-ti-me  ,  to-so-de  ,  pe-mo     GRA   1   Ṭ[   5
+.2              o-da-a2  o-na-te-re  ,  ru-*83-o  ,  ko-to-na  ,  e-ko-si
+.3            pe-ki-ta  ,  ka-na-pe-u  ,  wa-na-ka-te-ro  ,  [o-]na-to  ,  e-ke  ,  to-so-de  ,  pe-mo   GRA   T   1
+.4            mi-ra  ,  te-o-jo  ,  do-e-ra⌞ ⌟e-ke  ,  to-so-de⌞ ⌟pe-mo                                                 GRA   T   1
+.5        te-se-u  ,  te-o-jo  ,  do-e-ro  ,  o-na-to  ,  e-ke  ,  to-so-de  ,  pe-mo                                   GRA   T   4
+.6        ma-re-ku-na  ,  te-o-jo  ,  do-e-ro  ,  o-ṇạ[-to  e-ke  to-so-de   ]pe-mo                             GRA   T   1
+.7        e-ko-to  ,  te-ọ-jo  ,  do-e-ro  ,  o-na-to  ,  e-ke  ,̣  to-so-de  ,  pe-mo                                   GRA   Ṿ   3̣
+.8        ma-*79  ,  te-ọ-j̣ọ  ,  ḍọ-e-ra  ,  o-na-to  ,  e-ke  ,  to-so-de  ,  pe-mo                                   GRA   V   3̣
+.9        e-*65-to  ,  te-o-jo  , do-e[-ro]  ,  o-na-to  ,  e-ke  ,  to-so-de  ,  pe-mo                               GRA   V   1
+.10                                                  angustum
+.11      a3-ti-jo-qo  ,  ko-to-ṇạ  ,  ki-ti-me-na  ,  to-so-de  ,  p̣ẹ-ṃọ                                     GRA   1   T   5   V   4
+.12      o-da-a2  o-na-te-re  ,  e-ko-si  ,  a3-ti-jo-qo  ,  ko-to-na
+.13      e-pa-sa-na-ti  ,  te-o-jo  ,  do-e-ra o-na-to  ,  e-ke  ,  to-so-de  pe-mo                               GRA   T   2
+.14      ku-*63-so⌞ ⌟ṭẹ-o-jo  ,  do-e-ro  ,  o-na-to  ,  e-ke  ,  to-so-de  ,  pe-mo                           GRA   T   1
+.15      ta-ra2-to  ,  te-o-jo  ,  do-e-ro  ,  o-na-to  ,  e-ke  ,  ṭọ-so-de  ,  pe-mo                               GRA   T   1
+.16      we-te-re-u  ,  i-e-re-u  ,  o-na-to  ,  e-ke  ,  to-so-de  ,  pe-mo                                             GRA   T   5
+.17      e-ko-to  ,  te-o-jo  ,  do-e-ro  ,  o-na-to  ,  e-ke  ,  to-so-de  ,  pe-mo                                  GRA   T   1
+.18      ko-ri-si-ja  ,  te-o-jo  ,  do-e-ra  ,  o-na-to  ,  e-ke  ,  to-so-de  ,  pe-ṃọ                             GRA   T   5
+.19                                                  angustum
+.20      pi-ke-re-wo  ,  ko-to-na  ,  ki-ti-me-na  ,  to-so-de  ,  pe-mo                                         GRA   2   T   6
+.21      o-da-a2  ,  o-na-te-re  ,  e-ke-si  ,  pi-ke-re-wo  ,  ko-to-na
+.22      a3-wa-ja  ,  te-o-jo  ,  do-e-ra  ,  o-na-to  ,  e-ke  ,  to-so-de  ,  pe-mo                          GRA   T   1
+.23      pe-ki-ta  ,  ka-na-pe-u  ,  wa-na-ka-te-ro  ,  o-na-to  ,  e-ke  ,  to-so-de  ,  pe-mo          GRA   T   2
+.24      ko-ri-si-ja  ,  te-o-jo  ,  do-e-ra  ,  o-na-to  ,  e-ke  ,  to-so-de  ,  pe-mo                         GRA   T   5

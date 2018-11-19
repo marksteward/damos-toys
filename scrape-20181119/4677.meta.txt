@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 428
+Set: 
+Joins:  + 1055 + fr. + frr.: 6 [+] 1056 + frr.
+Writer(s): Ciii
+Stylus: -
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.2225

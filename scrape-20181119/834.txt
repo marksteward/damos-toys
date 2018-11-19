@@ -1,0 +1,2 @@
+.1        wa-to  /  a-ko-ra-ja         OVIS:m   60     OVIS:f   270     CAP:m   49
+.2          CAP:f   130   SUS   17    SUS:f     41    BOS:m   2      BOS:f   4

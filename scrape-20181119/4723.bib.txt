@@ -1,0 +1,4 @@
+Kasus: 240
+Introduction: 318
+Docs2: 176
+Interpretation: 304

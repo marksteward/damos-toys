@@ -1,0 +1,2 @@
+.A                                        OVIS:m   68     OVIS:f   32
+.B        sa-ze-ro  /  qa-ra

@@ -1,0 +1,3 @@
+Introduction: 317
+Local Cases: 74
+Docs2: 173

@@ -1,0 +1,5 @@
+Kasus: 242
+Local Cases: 58
+Docs2: 60
+Interpretation: 47T/70
+Companion-1: 170/379

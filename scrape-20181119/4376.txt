@@ -1,0 +1,15 @@
+.1                        pi-*82      ,  we-re-ke
+.2        pa-ro  ,  pi-me-ta  ,  X        OVIS:m   200  pa-ro  ,  o-ku-ka  ,                 OVIS:m  X̣   13̣0[
+.3        pa-ro  ,  ku-pi-ri-jo  ,         OVIS:m   50 X  pa-ro  ,  a-ka-ma-wo           OVIS:m   120 X
+.4        pa-ro  ,  ko-ru-no               OVIS:m  100   X   pa-ro  ,  ne-ri-to               OVIS:m   30 X
+.5        pa-ro  ,  po-ro-u-te-we     OVIS:m   90   X  pa-ro  ,  o-wa-ko                CAP:f   54 X
+.6        ma-ro-pi  ,  to-ro-wi          OVIS:m   130   X  pa-ro  ,  a-no-po              OVIS:m   130 X
+.7        pa-ro  ,  ke-ro-wo               OVIS:m   130   X  pa-ro  ,  ra-pa-sa-ko       OVIS:m   91 X
+.8        pa-ro  ,  po-ke-we              OVIS:f   27   X  pa-ro  ,  a-ri-wo-ne  X              OVIS:m   100
+.9        pa-ro  ,  a-we-ke-se-we   OVIS:m   170   X  pa-ro , po-ko-ro                OVIS:m   100 X
+.10      pa-ro  ,  e-ti-ra-wo            OVIS:m   100   X  pa-ro  ,  a-ta-ma-ne-we   OVIS:m   140 X
+.11      pa-ro  ,  se-no                     OVIS:f   44   X  pa-ro  ,  ko-ro                          OVIS:f   24 X
+.12      pa-ro  ,  do-qo-no   X        OVIS:m   80  pa-ro  ,  wo-ki-to   X                  OVIS:m   73
+.13      pa-ro  ,  me-te-we             OVIS:m   163  X  pa-ro  ,  ke-sa-me-no        OVIS:f   40 X
+.14      ]p̣ạ-ro  ,  pu-wi-no            CAP:f   55
+.15                                                                                 vac.

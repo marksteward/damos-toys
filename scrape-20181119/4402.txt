@@ -1,0 +1,13 @@
+.1        ma-ro-pi  ,  ka-do-wo  ,  a-ke-o-jo              OVIS:m   40
+.2        ma-ro-pi  ,  to-si-ta  ,  a-ke-o-jo                   OVIS:m   82̣
+.3        ma-ro-pi  ,  me-ta-no  ,  a-ke-o-jo               OVIS:f   60
+.4        pi-*82  ,  ma-ra-ni-jo  ,  pa-ra-jo                 OVIS:m   230
+.5        pi-*82  ,  o-ku-ka  ,  a-ke-o-jo                      OVIS:m   70
+.6        pi-]*82  ,   ra-mi-ni-jo  ,   a-ke-o-jo            OVIS:m   90
+.7        [ pi-*82   ]  ku-p̣ị-ri-jo  ,  a-ke-o-jo            OVIS:m   60
+.8        [ pi-*82    ku-]ka-ra-so  ,  a-so-ta-o           OVIS:f̣[   ]30
+.9        wi-]ja-we-ra2  ,  ko-ru-no  ,  pa-ra-jo       ỌṾỊṢ:ṃ   66
+.10      a-pa-]re-u-pi  ,  p̣ạ-pa-ro  ,  a-ko-so-ta-ọ     OVIS:m   100
+.11      wi-ja-we-ra2  ,  a-ka-ma-wo  ,  a-ko[-so-]ta-o     OVIS:m   96
+.12      ẉị-ja-we-ra2  ,  a-ke-ta  ,  ẉọ[-ne-]we        OVIS:m   100
+.13                               vacat

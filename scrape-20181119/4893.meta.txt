@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 300
+Set: 
+Joins:  + fr. + 375 + frr.: 5 + 1074 + fr. + 1446 
+Writer(s): Cii
+Stylus: 300
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.1377 + 8.1366 + 8.1388 + 8.1367 + 8.1369 + 8.1268 + 8.1289 + 8.1259 + 8.2300 + 8.23 + 8.2314 + 8.2305 + 8.2335 + 8.2344 + 8.2343 + 8.2373 + 8.2345 + 8.1443

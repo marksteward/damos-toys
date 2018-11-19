@@ -1,0 +1,3 @@
+Kasus: 191/205
+Local Cases: 86
+Interpretation: 268T/139/160

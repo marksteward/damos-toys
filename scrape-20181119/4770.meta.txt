@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 162
+Set: 
+Joins:  [+] 1011 
+Writer(s): 2
+Stylus: 90
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: x.25

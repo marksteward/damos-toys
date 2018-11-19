@@ -1,0 +1,3 @@
+Kasus: 64
+Hajnal(1998): 61
+Interpretation: 148T

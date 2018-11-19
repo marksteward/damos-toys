@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 764
+Set: 
+Joins:  + fr.
+Writer(s): 1
+Stylus: 240
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 7.64 + x1.

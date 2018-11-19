@@ -1,0 +1,4 @@
+Kasus: 256
+Doria(1965): 13
+Docs2: 30
+Interpretation: 27T

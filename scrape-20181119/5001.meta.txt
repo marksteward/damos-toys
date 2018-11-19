@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 6
+Set: 
+Joins:  + 1189 + 1250 + fr. [+] 1439
+Writer(s): 6
+Stylus: 6
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.32B + x0. + sw.31 + sw.33

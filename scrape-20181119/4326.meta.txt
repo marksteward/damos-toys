@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 31
+Set: 
+Joins:  + 115 + 1423 
+Writer(s): 3
+Stylus: -
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.3156B + 8.B + sw.6m

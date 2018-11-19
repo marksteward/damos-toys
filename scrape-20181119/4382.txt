@@ -1,0 +1,14 @@
+.1        ro-u-so          [
+.2        a3-ta-ṛọ-we       [
+.3        re-ta-mo             CAP:m[
+.4        ka-ra-u-ko          C̣ẠP̣:ṃ[   ]30
+.5        a-we-ke-se-u     OVIS:m   50
+.6        a-we-ke-se-u     CAP:m   30[   ] vac.
+.7        wa-da-ko            CAP:m   86
+.8        si-no-u-ro           CAP:m   60[
+.9        ra-ma-jo              CAP:f   20[
+.10      pa-wa-wo           [•]:f̣   [
+.11      e-ke-da-mo        OVIS:m   100
+.12      a-si-wi-jo             OVIS:m   100
+.13      o-ki-ra                  OVIS:m   116
+.14      o-ti-na-wo           OVIS:m   100

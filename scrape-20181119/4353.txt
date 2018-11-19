@@ -1,0 +1,18 @@
+.1        ku-ru-me-no-jo  ,  o-ka  ,  pe-ri-te-u  ,
+.2        wo-ne-wa  ,  a-ti-ja-wo  ,  e-ru-ta-ra  ,
+.3        o-*34-ta  ,  me-ta-pi-jo   ,  ke-ki-de  ,
+.4        VIR   50
+.5                                    vac.
+.6        u-pi-ja-ki-ri-jo  ,  ku-re-we  ,    VIR   60
+.7        me-ta-qe  ,  pe-i  ,  e-qe-ta  ,
+.8        a-re-ku-tu-ru-wo  ,  e-te-wo-ke-re-we
+.9        i-jo ,
+.10                                 vac.
+.11      ta-ti-qo-we-wo  ,  o-ka  ,  to-wa  ,
+.12      po-ki-ro-qo  ,  pe-ri-no  ,  de-u-ka-ri-jo  ,
+.13      ra-pe-do  ,  do-qo-ro  ,  pe-ri-ra-wo  ,
+.14      e-no-wa-ro  ,  to-so-de  ,  pe-di-je-we  ,
+.15      wa-wo-u-de  ,  ke-ki-de  ,  VIR   10
+.16      u-ru-pi-ja-jo     VIR  10  ku-re-we   VIR   20
+.17      i-wa-so               VIR  10
+.18      o-ka-ra3             VIR  10

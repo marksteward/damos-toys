@@ -1,0 +1,5 @@
+.1        si-to-ko-wo
+.2        ka-pa-ra2-de    MUL   24   ko-wo   10
+.3        ḳọ-ro-ki-ja[      ]MUL   8   ko-wo[
+.4        ki-ni-di[-ja        MUL]   21   ḳọ[-wo
+.5                              inf. mut.

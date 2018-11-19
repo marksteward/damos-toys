@@ -1,0 +1,4 @@
+Kasus: 236
+Docs2: 54
+Interpretation: 34T/69/118/124/162/217/222
+Companion-1: 130/147/171/379

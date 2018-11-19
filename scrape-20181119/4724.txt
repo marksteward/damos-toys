@@ -1,0 +1,2 @@
+.1        a-pu2-we  *146   23   RI   M   23   KE   M   7  *152   10     O   M  5     ME   500
+.2        o-da-a2  ,  ka-ke-we  ,  o-u-di-do-si   *146   1   RI   M   1  *152   1          ME   20

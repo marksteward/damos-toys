@@ -1,0 +1,11 @@
+Site: Pylos
+Tablet number: 437
+Set: 
+Joins:  + 1063 + frr. + fr. [+] 490 
+Writer(s): 1
+Stylus: 719
+Chronology 1: LH IIIB2/LH IIIC
+Chronology 2: LH IIIB2/LH IIIC
+Chronology 3: 
+Museum: NMA
+Find spot: 8.2273 + 8.2270

@@ -1,0 +1,11 @@
+.1        a-si-ja-ti-ja  ,  ta-to-mo  ,  o-pe-ro
+.2        mu-ta-pi  ,  ku-ri-sa-to            OVIS+TA     22
+.3        qe-re-me-ti-re  ,  sa-ṇị-j̣ọ               OVIS+TA   16
+.4        ta-to  ,  a-ka-re-u-te  ,  ṭụ-ni-jo               OVIS+TA   7
+.5        e-ri-no-wo-te  ,  ti-ri-jo                             OVIS+TA   7
+.6        ne-do-ẉọ-te  ,  tu-ti-je-u                       OVIS+TA   4
+.7        e-ri-to-ti-no  ,  ne-me-ta-wo            OVIS+TA   10
+.8        wo-tu-wa-ne  ,  e-ke-si-jo                 OVIS+TA   9
+.9        ma-ta  ,  a-ka-re-u-te  ,  ke-ro-we   OVIS+TA   7
+.10      si-jo-wo-te  ,  o-qe  ,  e-ra-se            OVIS+TA   10
+.11                                           vac.

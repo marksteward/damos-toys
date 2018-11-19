@@ -1,0 +1,5 @@
+Kasus: 251
+Docs2: 89
+Interpretation: 114T/233
+Melena(2001): 42
+Ruipérez-Melena(1990): 235

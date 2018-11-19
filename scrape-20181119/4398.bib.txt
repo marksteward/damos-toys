@@ -1,0 +1,5 @@
+Kasus: 186
+Doria(1965): 26
+Docs2: 75
+Melena(2001): 33
+Ruipérez-Melena(1990): 230

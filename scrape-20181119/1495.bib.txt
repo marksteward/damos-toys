@@ -1,0 +1,7 @@
+Kasus: 100
+Doria(1965): 134
+Introduction: 303
+Docs2: 273
+Interpretation: 218T
+Melena(2001): 66
+Ruipérez-Melena(1990): 248

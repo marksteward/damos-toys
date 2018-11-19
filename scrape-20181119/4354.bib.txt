@@ -1,0 +1,5 @@
+Kasus: 161n.203/195
+Local Cases: 40
+Docs2: 59
+Interpretation: 46T/175
+Companion-1: 310

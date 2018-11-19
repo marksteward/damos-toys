@@ -1,0 +1,4 @@
+.A        ]ne     TELA;3   26      2̣
+.B        ]          LANA   12   M  1  [
+v.↓
+            ]LANA     7

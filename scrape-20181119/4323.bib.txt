@@ -1,0 +1,6 @@
+Kasus: 160
+Doria(1965): 15
+Local Cases: 40/73
+Docs2: 53
+Interpretation: 33T/70
+Companion-1: 147/171/356

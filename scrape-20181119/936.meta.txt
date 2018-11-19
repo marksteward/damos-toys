@@ -1,0 +1,11 @@
+Site: Knossos
+Tablet number: 1026
+Set: 3
+Joins:  + 7273 + frr.: 5
+Writer(s): 217
+Stylus: 
+Chronology 1: LM IIIA2-early?
+Chronology 2: LM IIIA2-early?
+Chronology 3: 
+Museum: HM
+Find spot: 

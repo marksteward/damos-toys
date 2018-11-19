@@ -30,7 +30,7 @@ def scrape(outdir, start=1, end=10000):
                 continue
 
             # First with changes is 468 (show up as <em>)
-            text = tree.cssselect('pre')[0].text_content()
+            tablet = tree.cssselect('pre')[0].text_content()
             meta = tree.cssselect('.meta_info')[0]
             bib = tree.cssselect('.bib_info')[0]
             meta = '\n'.join(meta.itertext())
@@ -38,7 +38,7 @@ def scrape(outdir, start=1, end=10000):
             meta = re.sub(r'^Metadata\n(\n|$)', '', meta)
             bib = re.sub(r'Basic Tablet Bibliography(\n|$)', '', bib)
 
-            writefile('{}.txt'.format(n), text + '\n')
+            writefile('{}.tablet.txt'.format(n), tablet + '\n')
             writefile('{}.title.txt'.format(n), title + '\n')
             writefile('{}.meta.txt'.format(n), meta + '\n')
             writefile('{}.bib.txt'.format(n), bib + '\n')
